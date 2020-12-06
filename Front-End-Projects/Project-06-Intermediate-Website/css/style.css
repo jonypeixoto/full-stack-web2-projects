@@ -7,7 +7,6 @@
 
 html,body{
 	height: 100%;
-	background-color: black;
 }
 
 .container{
@@ -22,6 +21,7 @@ html,body{
 header{
 	width: 100%;
 	height: 90vh;
+	min-height: 800px;
 	padding: 40px 2%;
 	/*max-height: 700px;*/
 	background-size: cover;
@@ -35,14 +35,50 @@ header nav{
 }
 
 nav.mobile-menu{
+	cursor: pointer;
 	display: none;
+	width: 32px;
+	height: 32px;
+	background-image: url('../images/menu.png');
+	background-size: 100% 100%;
+}
+
+nav.mobile-menu:hover ul{
+	opacity: 1;
+}
+
+nav.mobile-menu ul{
+	opacity: 0;
+	transition: 1s;
+	background-color: white;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 80px;
+	list-style-type: none;
+	text-align: center;
+}
+
+nav.mobile-menu ul li{
+	padding: 8px 0;
+	transition: 0.4s;
+	border-bottom: 1px solid black;
+}
+
+nav.mobile-menu ul li:hover{
+	background-color: rgb(230,230,230);
+}
+
+nav.mobile-menu ul li a{
+	color: black;
+	text-decoration: none;
 }
 
 header .logo{
 	float: left;
 	width: 165px;
 	height: 35px;
-	background-image: url('../images/logo.png');
+	background-image: url('../images/logo.png')
 }
 
 header nav.desktop-menu ul{
@@ -62,7 +98,7 @@ header nav.desktop-menu li a{
 .call1{
 	max-width: 600px;
 	float: right;
-	margin: 140px 150px;
+	margin: 200px 150px;
 }
 
 .call1 h2{
@@ -81,11 +117,12 @@ section.session1{
 	width: 100%;
 	background-color: black;
 	padding: 0 2%;
-	height: 400px;
+	height: 500px;
 }
 
 section.session1 .container{
 	max-width: 1000px; 
+	height: calc(100% + 30px);
 }
 
 .text-session1{
@@ -93,8 +130,8 @@ section.session1 .container{
 	width: 50%;
 	position: relative;
 	left: 55px;
-	margin-top: 40px;
-	padding-left: 60px;
+	margin-top: 60px;
+	padding-left: 80px;
 	color: white;
 }
 
@@ -111,11 +148,11 @@ section.session1 .container{
 
 .text-session1 ul{
 	font-size: 15px;
-	list-style-position: inside;
+	list-style-position: outside;
+	padding-left: 15px;
 }
 
 .text-session1 ul li{
-	float: left;
 	width: 100%;
 	margin-top: 8px; 
 }
@@ -138,10 +175,129 @@ section.session1 .container{
 	width: 50%;
 	position: relative;
 	top: -30px;
-	height: 430px;
+	height: 100%;
 	background-image: url('../images/device.png');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
+}
+
+.session2{
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: white;
+	text-align: center;
+}
+
+.session2 .container{
+	max-width: 1000px;
+}
+
+.session2 h2{
+	color: #472663;
+	font-weight: 300;
+}
+
+.session2 p{
+	margin-top: 30px;
+	max-width: 900px;
+	display: inline-block;
+}
+
+.session2 img{
+	position: relative;
+	top: 70px;
+	width: 100%;
+	margin-top: 10px;
+}
+
+.session3{
+	width: 100%;
+}
+
+.part1{
+	color: white;	
+	float: left;
+	width: 50%;
+	padding: 140px 0 90px 0;
+	background-color: #1096FF;
+}
+
+.wraper-part1{
+	max-width: 600px;
+	float: right;
+	padding-right: 30px;
+}
+
+.part1 h2{
+	font-weight: 300;
+	font-style: italic;
+	font-size: 23px;
+}
+
+.part1 p{
+	font-size: 15px;
+	line-height: 35px;
+	margin-top: 10px;
+}
+
+.part2{
+	float: left;
+	width: 50%;
+	padding: 140px 0 90px 0;
+	background: white;
+}
+
+.about-author{
+	float: left;
+	max-width: 600px;
+	padding-left: 30px;
+}
+
+.title-author{
+	float: left;
+	width: 100%;
+}
+
+.wraper-title-author{
+	float: left;
+}
+
+.title-author h2{
+	padding-right: 20px;
+}
+
+.title-author .img-author{
+	float: left;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: -4px;
+	border-radius: 20px;
+	background-color: green;
+}
+
+@media screen and (max-width: 830px){
+
+	.call1{
+		max-width: none;
+		width: 100%;
+		text-align: center;
+		float: none;
+		margin: 170px 0;
+	}
+
+	.call1 h2{
+		font-weight: 300;
+		font-size: 30px;
+		padding: 0 0px;
+		color: white;
+	}
+
+	.call1 p{
+		font-size: 15px;
+		color: white;
+		margin-top: 10px;
+	}
 }
 
 /*-- 768px = size iPad --*/
@@ -163,33 +319,14 @@ nav.mobile-menu{
 	display: block;
 }
 
-.call1{
-	max-width: none;
-	width: 100%;
-	text-align: center;
-	float: none;
-	margin: 100px 0;
-}
-
-
-.call1 h2{
-	font-weight: 300;
-	font-size: 30px;
-	padding: 0 0px;
-	color: white;
-}
-
-.call1 p{
-	font-size: 15px;
-	color: white;
-	margin-top: 10px;
-}
-
-
 section.session1{
 	padding: 40px 2%;
 	height: auto;
 	text-align: center;
+}
+
+.session1 .container{
+	height: auto;
 }
 
 .text-session1{
@@ -217,6 +354,11 @@ section.session1{
 
 .device-session1{
 	display: none;		
+}
+
+
+.session2{
+	padding-top: 40px;
 }
 
 }
