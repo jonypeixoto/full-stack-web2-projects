@@ -9,6 +9,8 @@ html,body{
 	height: 100%;
 }
 
+/*--- Here, it is beginning the session 1 ---*/
+
 .container{
 	max-width: 1280px;
 	margin: 0 auto;
@@ -75,10 +77,16 @@ nav.mobile-menu ul li a{
 }
 
 header .logo{
+	position: relative;
+	top: -5px;
 	float: left;
-	width: 165px;
-	height: 35px;
-	background-image: url('../images/logo.png')
+	width: 760px;
+	height: 160px;
+	background-image: url('../images/cybertimeup-logo.png');
+	background-size: contain;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-color: transparent;
 }
 
 header nav.desktop-menu ul{
@@ -181,6 +189,10 @@ section.session1 .container{
 	background-size: 100% 100%;
 }
 
+/***/
+
+/*--- Here, it is beginning the session 2 ---*/
+
 .session2{
 	padding-left: 2%;
 	padding-right: 2%;
@@ -210,6 +222,10 @@ section.session1 .container{
 	margin-top: 10px;
 }
 
+/***/
+
+/*--- Here, it is beginning the session 3 ---*/
+
 .session3{
 	width: 100%;
 }
@@ -219,13 +235,13 @@ section.session1 .container{
 	float: left;
 	width: 50%;
 	padding: 140px 0 90px 0;
-	background-color: #1096FF;
+	background-color: #0701a5;
 }
 
 .wraper-part1{
 	max-width: 600px;
 	float: right;
-	padding-right: 30px;
+	padding: 0 30px;
 }
 
 .part1 h2{
@@ -263,18 +279,176 @@ section.session1 .container{
 }
 
 .title-author h2{
+	color: #232323;
+	font-weight: 400;
+	font-size: 21px;
 	padding-right: 20px;
+}
+
+.title-author p{
+	font-size: 13px;
+	color: #232323;
+	font-style: italic;
+	font-weight: 300;
 }
 
 .title-author .img-author{
 	float: left;
-	width: 40px;
-	height: 40px;
-	position: relative;
-	top: -4px;
-	border-radius: 20px;
-	background-color: green;
+	width: 90px;
+	height: 90px;
+	background-image: url('../images/jony.png');
+	background-size: 100% 100%;
+	border-radius: 90px;
+	background-color: transparent;
 }
+
+.text-author p{
+	float: left;
+	width: 100%; 
+	padding-left: 0px;
+	margin-top: 12px;
+}
+
+.slider-bullets{
+	width: 100%;
+	float: left;
+	margin-left: 30px;
+	margin-top: 12px;
+}
+
+.slider-bullets span{
+	width: 16px;
+	height: 16px;
+	float: left;
+	margin-right: 8px;
+	cursor: pointer;
+	border-radius: 8px;
+	background-color: rgb(200,200,200);
+}
+
+.text-author p{
+	color: #232323;
+	font-size: 15px;
+}
+
+/***/
+
+/*--- Here, it is beginning the session 4 ---*/
+
+section.session4{
+	background-color: black;
+	padding: 100px 0;
+}
+
+.form{
+	float: left;
+	width: 50%;
+	color: white;
+	padding-left: 10px;
+}
+
+.form h2{
+	color: white;
+	font-size: 23px;
+	font-weight: 300;
+}
+
+.form p{
+	font-size: 15px;
+	font-weight: 300;
+	max-width: 400px;
+	padding-right: 10px;
+}
+
+.form form{
+	margin-top: 15px;
+}
+
+.form form input[type=text]{
+	width: 90%;
+	max-width: 480px;
+	margin-top: 8px;
+	height: 58px;
+	padding-left: 8px;
+	line-height: 58px;
+	border: 1px solid rgb(200,200,200);
+	}
+
+.form form textarea{
+	width: 90%;
+	margin-top: 8px;
+	max-width: 480px;
+	padding: 15px;
+	border: 1px solid rgb(200,200,200);
+	height: 160px;
+}
+
+.form form input[type=submit]{
+	background-color: #0701a5;
+	width: 165px;
+	height: 44px;
+	font-size: 13px;
+	color: white;
+	cursor: pointer;
+	margin-top: 15px;
+	border-radius: 30px;
+}
+
+.map-wraper{
+	float: left;
+	width: 50%;
+	padding: 0 10px;
+	color: white;
+}
+
+.map-wraper h2{
+	font-size: 23px;
+	font-weight: 300;
+}
+
+.map-wraper3{
+	margin-top: 10px;
+	width: 100%;
+	max-width: 480px;
+	position: relative;
+}
+
+.map-wraper2{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	padding-top: 100%;
+}
+
+.map{
+	left: 0;
+	top: 0;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: white;
+	border: 5px solid rgb(200,200,200);
+}
+
+.footer{
+	padding: 40px 2%;
+	background: #192123;
+	color: white;
+}
+
+footer p:nth-of-type(1){
+	float: left;
+	font-size: 14px;
+}
+
+footer p:nth-of-type(2){
+	float: right;
+	font-size: 14px;
+}
+
+
+/***/
 
 @media screen and (max-width: 830px){
 
@@ -360,5 +534,78 @@ section.session1{
 .session2{
 	padding-top: 40px;
 }
+
+section.session4 .container{
+	text-align: center;
+}
+
+.form{
+	float: none;
+	width: 100%;
+} 
+
+.form p{
+	display: inline-block;
+	float: none;
+}
+
+.map-wraper{
+	float: none;
+	width: 100%;
+	padding: 0 8%;
+	margin-top: 40px;
+}
+
+
+.map-wraper3{
+	margin-top: 10px;
+	width: 100%;
+	padding-top: 100%;
+	display: inline-block;
+	max-width: none;
+	position: relative;
+}
+
+.map-wraper2{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	padding-top: 0;
+}
+
+
+}
+
+@media screen and (max-width: 580px){
+	.part1{
+		width: 100%;
+		padding: 40px 0;
+	}
+
+	.part2{
+		width: 100%;
+		padding: 40px 0;
+	}
+
+	.session2 img{
+		top: 16px;
+		margin-top: 20px;
+	}
+
+	.footer{
+		text-align: center;
+	}
+
+	footer p:nth-of-type(1){
+		float: none;
+	}
+
+	footer p:nth-of-type(2){
+		float: none;
+		margin-top: 8px;
+	}
+
 
 }
