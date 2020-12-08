@@ -1,0 +1,143 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family:'Montserrat', sans-serif;
+}
+
+.clear{
+	clear: both;
+}
+
+.container{
+	max-width: 1400px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+html,body{
+	height: 100%;
+}
+
+
+/** SITE'S HEADER **/
+
+header{
+	padding: 20px 2%;
+}
+
+header .logo img{
+	float: left;
+	width: 236px;
+}
+
+header nav{
+	float: right;
+}
+
+header nav ul{
+	padding: 8px 0;
+	list-style-type: none;
+}
+
+
+/****/
+
+
+header nav ul li{
+	float: left;
+	font-size: 14px;
+	padding: 0 20px;
+	text-transform: uppercase;
+}
+
+header ul a{
+	color: #b4b4b4;
+	text-decoration: none;
+}
+
+/*****/
+
+/** MOSAIC **/
+
+.mosaic-single{
+	float: left;
+	width: calc(100% / 6);
+}
+
+.img-mosaic-single{
+	width: 100%;
+	padding-top: 100%;
+	background-color: #ccc;
+	border: 5px solid white;
+	/*
+	background-image: url('');
+	*/
+}
+
+
+/****/
+
+section.services > .container{
+	max-width: 800px;
+	display: flex;
+	align-items: center;
+	position: relative;
+	top: -30px;
+	text-align: center;
+}
+
+section.services > .container .box-service{
+	background-image: url('../images/icon_tooth.png');
+	background-size: 18px 18px;
+	background-position: center calc(100% - 5px);
+	background-repeat: no-repeat;
+}
+
+section.services > .container .box-service h2{
+	color: white;
+	font-weight: normal;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+section.services > .container .box-service p{
+	color: white;
+	margin-top: 8px;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+section.services > .container .box-service:nth-of-type(1){
+	width: 30%;
+	padding: 30px 2%;
+	background-color: #576975;
+}
+
+section.services > .container .box-service:nth-of-type(2){
+	width: 40%;
+	padding: 60px 2%;
+	background-color: #688293;
+	background-image: none;
+}
+
+section.services > .container .box-service:nth-of-type(3){
+	width: 30%;
+	padding: 30px 2%;
+	background-color: #576975;
+}
+
+section.profile-container .profile-wraper{
+	padding-top: 50%;
+	position: relative;
+}
+
+section.profile-container .profile-wraper2{
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: flex;
+	width: 100%;
+	height: 100%;
+	background-color: green;
+}
