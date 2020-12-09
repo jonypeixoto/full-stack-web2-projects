@@ -91,8 +91,10 @@ header ul a{
 .img-mosaic-single{
 	width: 100%;
 	padding-top: 100%;
-	background-color: #ccc;
 	border: 5px solid white;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
 	/*
 	background-image: url('');
 	*/
@@ -155,7 +157,7 @@ section.profile-container{
 }
 
 section.profile-container .container{
-	max-width: 800px;
+	max-width: 1000px;
 }
 
 section.profile-container .profile-wraper{
@@ -175,7 +177,7 @@ section.profile-container .profile-wraper2{
 }
 
 section.profile-container .img-profile{
-	width: 50%;
+	width: 40%;
 	height: 100%;
 	background-image: url('../images/img_profile.png');
 	background-size: 100% 100%;
@@ -183,7 +185,7 @@ section.profile-container .img-profile{
 
 section.profile-container .text-profile{
 	width: 60%;
-	padding: 0 30px;
+	padding: 20px 30px;
 }
 
 section.profile-container .text-profile h2{
@@ -192,13 +194,13 @@ section.profile-container .text-profile h2{
 }
 
 section.profile-container .text-profile p{
-	color: #4b4b4b;
+	color: rgb(190,190,190);
 	font-size: 14px;
 	margin-top: 8px;
 }
 
 section.videos{
-	padding: 50px 0;
+	padding: 70px 0 50px 0;
 }
 
 section.videos .box-video{
@@ -311,11 +313,14 @@ section.customer-quote .quote-single{
 .mosaic-social{
 	float: left;
 	width: 100%;
+	background-size: 100% 100%;
 }
 
 .img-mosaic-single-social{
 	float: left;
 	width: calc(100% / 9);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 	padding-top: calc(100% / 9);
 	background-color: blue;
 	border: 6px solid white;
@@ -337,6 +342,7 @@ section.customer-quote .quote-single{
 }
 
 section.contact{
+	background: rgb(230,230,230);
 	padding: 60px 2%;
 }
 
@@ -412,8 +418,35 @@ section.contact form{
 }
 
 footer{
-	padding: 40px 0;
+	padding: 40px 2%;
 	background-color: #688293;
+}
+
+footer .container{
+	max-width: 1100px;
+}
+
+footer .footer-block{
+	float: left;
+	width: 33.3%;
+}
+
+.footer-block h2{
+	color: white;
+	font-weight: normal;
+	font-size: 18px;
+}
+
+.footer-block p{
+	margin-top: 8px;
+	color: white;
+	font-size: 14px;
+}
+
+.cybertimeup {
+    text-align: center;
+    padding: 19px 0;
+    background: #576975;
 }
 
 @media screen and (max-width: 1024px){
@@ -429,6 +462,17 @@ footer{
 }
 
 @media screen and (max-width: 768px){
+
+
+	footer .footer-block{
+		float: none;
+		width: 100%;
+		margin: 30px;
+	}
+
+	footer{
+		text-align: center;
+	}
 
 	nav.menu-desktop{
 		display: none; 
