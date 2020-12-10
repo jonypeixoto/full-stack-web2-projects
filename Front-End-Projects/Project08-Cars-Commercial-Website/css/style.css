@@ -1,0 +1,180 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Oswald', sans-serif;
+}
+
+html,body{
+	height: 100%;
+}
+
+.container{
+	width: 100%;
+	max-width: 1280px;
+	margin: 0 auto;
+}
+
+.clear{
+	clear: both;
+}
+
+header{
+	padding: 20px 2% 35px 2%;
+	height: 130px;
+}
+
+header div.logo{
+	float: left;
+}
+
+header nav.desktop{
+	float: right;
+	position: relative;
+	top: 40px;
+}
+
+nav.mobile{
+	margin-top: 40px;
+	float: right;
+	width: 32px;
+	height: 32px;
+	background-size: 100% 100%;
+	cursor: pointer;
+	background-image: url('../images/icon_menu.png');
+	display: none;
+}
+
+nav.mobile ul{
+	display: none;
+	width: 100%;
+	left: 0;
+	top: 110px;
+	border-bottom: 4px solid #EB2D2D;
+	z-index: 999;
+	position: absolute;
+	text-align: center;
+	background-color: white;
+}
+
+nav.mobile li{
+	font-size: 23px;
+	padding: 20px 0px;
+	font-style: italic;
+}
+
+nav.mobile li a{
+	color: black;
+	text-decoration: none;
+}
+
+header nav.desktop ul{
+	list-style-type: none;	
+}
+
+header nav.desktop ul li{
+	float: left;
+	font-size: 23px;
+	padding: 0 30px;	
+	font-style: italic;
+}
+
+header nav.desktop a{
+	color: black;
+	text-decoration: none;
+}
+
+section.banner{
+	overflow: hidden;
+	width: 100%;
+	height: 600px;
+	background-color: black;
+	background-image: url('../images/bg.jpg');
+	background-size: contain;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+}
+
+.text-banner{
+	padding: 100px;
+	float: left;
+	width: 100%;
+	margin-top: 40px;
+}
+
+.text-banner-single{
+	width: 314px;
+	font-style: italic;
+	margin-top: 10px;
+	padding: 12px 30px;
+	height: 50px;
+	text-transform: uppercase;
+	color: white;
+	font-size: 23px;
+	background-image: url('../images/box-text.png');
+	background-size: 100% 100%;
+}
+
+.text-banner .text-banner-single:nth-of-type(1){
+	position: relative;
+	left: -60px;
+}
+
+.text-banner .text-banner-single:nth-of-type(2){
+	width: 200px;
+	height: 50px;
+	position: relative;
+	left: -70px;
+}
+
+.text-banner .text-banner-single:nth-of-type(3){
+	width: 170px;
+	height: 50px;
+	position: relative;
+	left: -80px;
+}
+
+.text-banner .text-banner-single:nth-of-type(4){
+	width: 360px;
+	height: 50px;	
+	font-size: 21px;
+	color: black;
+	position: relative;
+	left: -90px;
+	background-image: url('../images/box-white-text.png');
+}
+
+@media screen and (max-width: 768px){
+
+	section.banner{
+		background-size: cover;
+		background-position: 100px center;
+		height: 80vh;
+	}
+
+	nav.desktop{
+		display: none;
+	}
+
+	nav.mobile{
+		display: block;
+	}
+
+}
+
+@media screen and (max-width: 580px){
+
+		.text-banner{
+			padding: 30px;
+	}
+
+		.text-banner-single{
+			width: 240px; 
+			font-size: 18px;
+	}
+
+		.text-banner .text-banner-single:nth-of-type(4){
+			width: 270px;
+	}
+
+}
