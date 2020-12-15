@@ -44,7 +44,7 @@
         var start = document.getElementById('start');
 
 
-        var cronometroSeg;
+        var timerSec;
 
         var minuteAtual;
         var secondAtual;
@@ -60,7 +60,7 @@
         }
 
         start.addEventListener('click',function(){
-            minuteAtual = minutoe.value;
+            minuteAtual = minutes.value;
             secondAtual = seconds.value;
 
             display.childNodes[1].innerHTML = minuteAtual + ":"+secondAtual;
