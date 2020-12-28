@@ -3,12 +3,13 @@
 <html>
 <head>
 	<title>Dentist Clinic Site</title>
+	<link href="css/slick.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 	<meta charset="utf-8" />
 	<meta name="description" content="Content of my site.">
-	<meta name="keywords" content="words,separated,by,comma" />
-	<meta name="author" content="Jonathan Peixoto" />
+	<meta name="keywords" content="words,separated,by,comma">
+	<meta name="author" content="Jonathan Peixoto">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" />
 </head>
 <body>
@@ -20,19 +21,19 @@
 
 		<nav class="menu-desktop">
 			<ul>
-				<li><a href="">who am I</a></li>
-				<li><a href="">clients</a></li>
-				<li><a href="">about</a></li>
-				<li><a href="">contact</a></li>
+				<li><a href="#about">who am I</a></li>
+				<li><a href="#customer-quote">customers</a></li>
+				<li><a href="#videos">videos</a></li>
+				<li><a href="#contact">contact</a></li>
 			</ul>
 		</nav>
 
 		<nav class="menu-mobile">
 			<ul>
-				<li><a href="">who am I</a></li>
-				<li><a href="">clients</a></li>
-				<li><a href="">about</a></li>
-				<li><a href="">contact</a></li>
+				<li><a href="#about">who am I</a></li>
+				<li><a href="#customer-quote">customers</a></li>
+				<li><a href="#videos">videos</a></li>
+				<li><a href="#contact">contact</a></li>
 			</ul>
 		</nav>
 
@@ -96,7 +97,7 @@
 		</div><!--container-->
 	</section><!--services-->
 
-	<section class="profile-container">
+	<section id="about" class="profile-container">
 		<div class="container">
 			<div class="profile-wraper">
 				<div class="profile-wraper2">
@@ -130,7 +131,7 @@
 		</div><!--container-->
 	</section><!--profile-container-->
 
-	<section class="videos">
+	<section id="videos" class="videos">
 		<div class="container">
 
 			<div class="box-video">
@@ -209,11 +210,11 @@
 			</div><!--treatment-single-->
 
 		</div><!--treatment-container-->
-		<div class="clear"></div>
+		<!--<div class="clear"></div>-->
 	</div><!--container-->
 	</section><!--treatments-->
 
-	<section class="customer-quote">
+	<section id="customers" class="customers">
 		<h2>Customer quote</h2>
 		<div class="container">
 			<div class="quote-single">
@@ -225,6 +226,27 @@
 					<span>Maria Augusta Santos</span>
 				</div><!--name-quote-->
 			</div><!--quote-single-->
+
+			<div class="quote-single">
+				<quote>
+					"Exceptional structure and service! I loved Dr. Fernanda's service, excellent professional."
+				</quote>
+				<div class="name-quote">
+					<img src="images/quote1.png" />
+					<span>Maria Augusta Santos</span>
+				</div><!--name-quote-->
+			</div><!--quote-single-->
+
+			<div class="quote-single">
+				<quote>
+					"Exceptional structure and service! I loved Dr. Fernanda's service, excellent professional."
+				</quote>
+				<div class="name-quote">
+					<img src="images/quote1.png" />
+					<span>Maria Augusta Santos</span>
+				</div><!--name-quote-->
+			</div><!--quote-single-->
+
 		</div><!--container-->
 	</section><!--customer-quote-->
 
@@ -256,7 +278,7 @@
 		<div class="clear"></div>
 	</section><!--social-->
 
-	<section class="contact">
+	<section id="contact" class="contact">
 		<h2>Contact</h2>
 		<form>
 			<div class="form-wraper w100">
@@ -321,5 +343,10 @@
 		<a href="http://www.cybertimeup.com" title="CybertimeUP" alt="CybertimeUP"><img src="images/cybertimeup.png" /></a>
 	</section>
 
+	<script src="js/jquery.js"></script>
+	<script src="js/slick.js"></script>
+	<script src="js/slides.js"></script>
+	<script src="js/responsive_menu.js"></script>
+	<script src="js/menuScroll.js"></script>
 </body>
 </html>

@@ -24,7 +24,7 @@
 				<li><a href="">Events</a></li>
 				<li><a href="sale.html">Sale</a></li>
 				<li><a href="about.html">About</a></li>
-				<li><a href="">Contact</a></li>
+				<li><a goto="contact" href="">Contact</a></li>
 			</ul>		
 		</nav><!--desktop-->
 
@@ -35,7 +35,7 @@
 				<li><a href="">Events</a></li>
 				<li><a href="sale.html">Sale</a></li>
 				<li><a href="about.html">About</a></li>
-				<li><a href="">Contact</a></li>
+				<li><a goto="contact" href="">Contact</a></li>
 			</ul>
 		</nav><!--mobile-->
 
@@ -113,10 +113,11 @@
 		<h2>Clients</h2>
 		<div class="client-single">
 			<p>"Rafael was very attentive, picked me up at the airport and guaranteed every convenience and comfort at lunch, transfer, visiting the vehicle and during the test drive".</p>
+			<p>"Jonathan was really phenomenal in presenting all the types of cars that I would like to purchase. Without a doubt RM is a reference in special cars".</p>
 			<div class="navigation">
 				<div class="arrows">
-					<img src="images/arrow-left.png" />
-					<img src="images/arrow-right.png" />
+					<img prev src="images/arrow-left.png" />
+					<img next src="images/arrow-right.png" />
 				</div><!--arrows-->
 				<div class="name-client">João da Silva</div><!--name-client-->
 			</div><!--navigation-->
@@ -125,7 +126,7 @@
 
 </section><!--services-description-->
 
-<section class="contact">
+<section id="contact" class="contact">
 	<div class="line-title">
 		<div class="ln1"></div>
 		<h2>Contact</h2>
@@ -166,13 +167,14 @@
 				<li><a href="">Events</a></li>
 				<li><a href="sale.html">Sale</a></li>
 				<li><a href="about.html">About</a></li>
-				<li><a href="">Contact</a></li>
+				<li><a goto="contact" href="">Contact</a></li>
 			</ul>
 		</nav>
 		<p>Copyright © 2021 RM. All rights reserved.</p>
 		<div class="clear"></div><!--clear-->
 	</div><!--container-->
 </footer>
-
+<script src="js/jquery.js"></script>
+<script src="js/functions.js"></script>
 </body>
 </html>
