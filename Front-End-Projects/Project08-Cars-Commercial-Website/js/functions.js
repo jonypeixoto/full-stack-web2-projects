@@ -156,7 +156,7 @@ $(function(){
 	var directory = '/Full-Stack-Projects/Front-End-Projects/Project08-Cars-Commercial-Website/'
 
 	$('[goto=contact]').click(function(){
-		location.href=directory+'index.html?contact';
+		location.href=directory+'?contact';
 		return false;
 	})
 
@@ -167,10 +167,12 @@ $(function(){
 		var curPage = url[url.length-1].split('?');
 
 		if(curPage[1] != undefined && curPage[1] == 'contact'){
-			$('header nav a').css('color','black');
-			$('footer nav a').css('color','white');
+			//$('header nav a').css('color','black');
+			//$('footer nav a').css('color','white');
 			$('[goto=contact]').css('color','#EB2D2D');
 			$('html,body').animate({'scrollTop':$('#contact').offset().top});
+		}else{
+			$('a[href='+curPage[0]+']').css('color','#EB2D2D');
 		}
 
 	}

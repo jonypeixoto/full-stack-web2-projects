@@ -12,7 +12,7 @@ html,body{
 /*--- Here, it is beginning the session 1 ---*/
 
 .container{
-	max-width: 1280px;
+	max-width: 1280x;
 	margin: 0 auto;
 }
 
@@ -39,19 +39,28 @@ header nav{
 nav.mobile-menu{
 	cursor: pointer;
 	display: none;
-	width: 32px;
-	height: 32px;
+	width: 52px;
+	height: 52px;
 	background-image: url('../images/menu.png');
 	background-size: 100% 100%;
+	float: bottom;
+	margin-top: 5%;
+	position: absolute;
+	top: 10%;
+	left: 80%;
+	width: 15%;
+	text-align: center;
 }
 
+/*
 nav.mobile-menu:hover ul{
 	opacity: 1;
 }
+*/
 
 nav.mobile-menu ul{
-	opacity: 0;
-	transition: 1s;
+	display: none;
+	/*transition: 1s;*/
 	background-color: white;
 	position: absolute;
 	width: 100%;
@@ -263,10 +272,20 @@ section.session1 .container{
 	background: white;
 }
 
+.scrollTeam{
+	max-width: 600px;
+	padding-left: 20px; 
+	overflow: hidden;
+}
+
+.scroll-wraper{
+	width: 100%;
+}
+
 .about-author{
 	float: left;
-	max-width: 600px;
-	padding-left: 30px;
+	width: 100%;
+	padding: 0 20px;
 }
 
 .title-author{
@@ -302,6 +321,26 @@ section.session1 .container{
 	background-color: transparent;
 }
 
+.title-author .img-author2{
+	float: left;
+	width: 90px;
+	height: 90px;
+	background-image: url('../images/alex.png');
+	background-size: 100% 100%;
+	border-radius: 90px;
+	background-color: transparent;
+}
+
+.title-author .img-author3{
+	float: left;
+	width: 90px;
+	height: 90px;
+	background-image: url('../images/jenny.png');
+	background-size: 100% 100%;
+	border-radius: 90px;
+	background-color: transparent;
+}
+
 .text-author p{
 	float: left;
 	width: 100%; 
@@ -312,7 +351,7 @@ section.session1 .container{
 .slider-bullets{
 	width: 100%;
 	float: left;
-	margin-left: 30px;
+	margin-left: 40px;
 	margin-top: 12px;
 }
 
@@ -577,6 +616,10 @@ section.session4 .container{
 
 
 }
+
+
+
+/*-- 580px = size Cellphone --*/
 
 @media screen and (max-width: 580px){
 	.part1{
