@@ -1,0 +1,50 @@
+ /*
+
+.myclass{
+	background: blue;	
+}
+
+*/
+
+.row{
+	padding: 0 6%;
+}
+
+h2.logo{
+	margin: 0;
+	color: white;
+}
+
+.menu{
+	background: rgb(100,100,100);
+	padding: 8px 0;
+}
+
+.menu-list{
+	position: relative;
+	top: 8px;
+}
+
+.menu-list ul{
+	display: inline-block;
+}
+
+.menu-list li{
+	padding: 0 10px;
+	font-size: 15px;
+	display: inline-block;
+	text-align: left;
+}
+
+.menu-list a{ 
+	color: white;
+	text-decoration: none;
+}
+
+.menu-list-mobile{
+	display: none;
+}
+
+@media screen and (max-width: 500px){
+
+}
