@@ -1,0 +1,227 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color: #1a1a1a;
+    padding:40px 0;
+    min-height: 700px;
+}
+
+.center{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding:0 2%;
+}
+
+header .logo h2{
+    color: white;
+}
+
+header .logo h2 > span{
+    color:#3f7aff;
+}
+
+.about-header{
+    margin-top:100px;
+    color:white;
+}
+
+.about-header h1{
+    margin:20px 0;
+    font-size: 50px;
+}
+
+section.jobs{
+	padding: 40px 0;	
+}
+
+section.jobs > h2{
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}	
+
+.job-single{
+	display: flex;
+	padding: 40px 0;
+	flex-wrap: wrap;
+}
+
+
+.job-img{
+	width: 50%;
+	padding: 50px;
+	background-color: #5e82ff;
+}
+
+.job-img img{
+	max-width: 100%;
+	width: 100%;
+}
+
+.wraper-description{
+	width: 50%;
+	padding: 10px 20px;
+}
+
+.box-customer{
+	padding: 8 15px;
+	margin: 40px 0;
+	border-radius: 8px;
+	box-shadow: 50px 50px 100px 0 rgba(0, 0, 0, 0.15);
+}
+
+.box-customer p{
+	color: #4d533c;
+	margin: 10px 0;
+	font-style: italic;
+	font-size: 16px;	
+}
+
+.box-customer h2{
+	color: #1b1b1b;
+	font-size: 16px;
+}
+
+.box-customer h3{
+	color: #1b1b1b;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.box-customer-user{display: flex;}
+
+.box-customer-user img{
+	width: 50px;
+	height: 50px;
+}
+
+.box-customer-name{
+	padding: 8 10px;
+}
+
+section.faq{
+	padding: 50px 0;
+	border-top: 1px solid #ccc;
+}
+
+.box-faq{
+	margin: 30px 0;
+	border-radius: 4px;
+	box-shadow: 50px 50px 100px 0 rgba(0, 0, 0, 0.15);
+	background-color: #ffffff;
+	float: left;
+	width: 22%;
+	min-height: 200px;
+	margin-right: 3%;
+	padding: 30px 30px;
+}
+
+.box-faq h2{
+	font-size: 24px;
+	padding: 10px 0;
+}
+
+.box-faq p{
+	font-size: 14px;
+	color: rgba(33, 56, 66, 0.6);
+}
+
+section.contact{
+	width: 100%;
+	padding: 40px 0;
+}
+
+section.contact .center{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 40px auto;
+}
+
+section.contact > h2{
+	text-align: center;
+	color: #1b1b1b;
+}
+
+.numbers-contact{
+	width: 50%;
+	padding: 0 30px;
+}
+
+.numbers-contact h3{
+	font-size: 25px;
+	color: #d6d6d6;
+}
+
+.numbers-contact p{
+	color: rgba(33, 56, 66, 0.6);
+	font-size: 16px;
+	text-decoration: underline;
+}
+
+.form{
+	width: 50%;
+	padding: 0 20px;
+}
+
+.form p{
+	font-size: 14px;
+	font-weight: bold;
+	color: rgba(33, 56, 66, 0.6);
+}
+
+.form input[type=text]{
+	width: 100%;
+	height: 40px;
+	border-radius: 4px;
+	box-shadow: 10px 10px 50px 0 rgba(0, 0, 0, 0.8);
+	border: solid 1px #ededed;
+	background-color: #ffffff;
+}
+
+.form textarea{
+	width: 100%;
+	height: 100px;
+	border-radius: 4px;
+	box-shadow: 10px 10px 50px 0 rgba(0, 0, 0, 0.8);
+	border: solid 1px #ededed;
+	background-color: #ffffff;
+}
+
+.form input[type=submit]{
+	width: 100%;
+	height: 30px;
+	color: white;
+	cursor: pointer;
+	border: 0;
+	border-radius: 4px;
+	background-color: #5e82ff;
+}
+
+footer{
+	text-align: center;
+	padding: 10px 0;
+	background-color: #1a1a1a;
+	color: white;
+}
+
+footer p .span{
+	font-size: 12px;
+}
+
+@media screen and(max-width: 768px){
+	.numbers-contact,.form{width: 100%;margin-bottom: 30px;}
+	.box-faq{
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.job-img,
+	.wraper-description{
+		width: 100%;
+	}
+}
