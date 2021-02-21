@@ -1,0 +1,24 @@
+*{
+ margin:0;
+ padding:0;
+ box-sizing: border-box;
+}
+
+header.principal{
+	width: 100%;
+	padding:20px 0;
+	background-color: #ccc;
+}
+
+header.principal > nav{
+	text-align: center;
+}
+
+header.principal > nav > ul{
+	list-style-type: none;
+}
+
+header.principal > nav > ul > li{
+	display: inline-block;
+	margin:0 25px;
+}

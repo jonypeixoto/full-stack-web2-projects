@@ -1,0 +1,43 @@
+*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		.header-video{
+			width: 100%;
+			height: 40vh;
+			max-height: 700px;
+			overflow: hidden;
+			position: relative;
+		}
+
+		.header-video video{
+			position: absolute;
+			left: 0;
+			top: 50%;
+			transform:translateY(-50%);
+			width: 100%;
+		}
+
+		.overlay{
+			position: absolute;
+			left: 0;
+			top: 0;
+			z-index: 1;
+			width: 100%;
+			height: 100%;
+			transition: 0.7s;
+			background:rgba(0,0,0,0.8);
+		}
+
+		.overlay:hover{
+			background:rgba(0,0,0,0);
+		}
+
+		.overlay h2{
+			padding:20px 0;
+			text-align: center;
+			color: white;
+			font-size: 50px;
+		}
