@@ -38,7 +38,7 @@ div.menu ul{list-style-type: none;}
 div.menu li{
 	font-size: 18px;
 	color: #717171;
-	margin-bottom: 20px;	
+	margin-bottom: 25px;
 }
 
 div.menu ul li a{
@@ -241,5 +241,8 @@ header{
 	div.main-content{
 		width: 100%;
 		position: absolute;left: 0;top: 0;
+	}
+	div.menu li{
+		margin-bottom: 25px;
 	}
 }
