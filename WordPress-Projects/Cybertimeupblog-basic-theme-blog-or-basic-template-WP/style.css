@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header.site-header{
+	padding: 20px 2%;
+	background-color: #333;
+}
+
+.site-branding{
+	float: left;
+}
+
+.main-navigation{
+	float: right;
+}
+
+.main-navigation ul{
+	margin-top: 15px;
+}
+
+.main-navigation ul li{
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.main-navigation ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+.site-branding h1 a{
+	color: white;
+	text-decoration: none;
+}
+
+footer.site-footer{
+	padding: 20px 2%;
+	color: white;
+	text-align: center;
+	background-color: #333;
+}
+
+footer.site-footer a{
+	color: white;
+}
+
+main{
+	padding: 50px 3%;
+}
+
+article{
+	padding: 20px 0;
+	border-bottom: 1px solid #ccc;
+}
+
+article h2 > a{
+	color: #333;
+	font-size: 25px;
+}
+
+article h1,
+article h2,
+article h3
+{
+	color: #333;
+	margin: 20px 0;
+}
+
+article h1{
+	font-size: 30px;
+	margin: 20px 0;
+}
+
+article a{
+	color: #5fa2f5;
+	font-size: 16px;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.posted-on{
+	display: none;
+	margin: 10px 0;
+	font-size: 19px;
+}
+
+.entry-content{
+	margin: 0 10px;
+}
+
+.entry-content p{
+	font-size: 16px;
+	color: #444;
+	margin: 5px 0;
+	line-height: 20px;
+}
+
+footer.entry-footer{
+	margin: 10px 0;
+	font-size: 19px;
+	display: none;
+}
+
+footer.entry-footer > span{
+	margin: 0 10px;
+}
+
