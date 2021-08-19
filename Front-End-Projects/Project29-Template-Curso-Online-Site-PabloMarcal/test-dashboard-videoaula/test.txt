@@ -1,0 +1,215 @@
+
+<!DOCTYPE html>
+<html class="h-100">
+
+<head>
+  <meta charset="UTF-8" />
+<meta http-equiv="Content-Language" content="pt, pt-BR, en, en-US">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/sticky-footer-navbar/">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+    integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+    integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  <link rel="stylesheet" href="../assets/css/layout.css">
+  <link rel="stylesheet" href="../config/platform-style.css">
+  <link rel="stylesheet" href="../assets/css/toastr.css">
+  <link rel="stylesheet" href="section-style.css">
+  <title>welcome</title>
+</head>
+<style>
+  .project-tab #tabs .nav-tabs .nav-item.show .nav-link,
+  .nav-tabs .nav-link.active {
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 3px solid !important;
+    font-size: 16px;
+
+  }
+
+  .project-tab .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    font-size: 16px;
+
+  }
+
+  .project-tab .nav-link:hover {
+    border: none;
+  }
+
+  .nav-tabs {
+    border-bottom: none;
+  }
+
+  #nav-project-tab i {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    min-height: 100px;
+    resize: none;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+    color: #666;
+
+
+  }
+</style>
+
+<body class="d-flex flex-column h-100">
+
+  <div id="mySidenav" class="sidenav"></div>
+
+  <header class="topbar container-fluid" style="padding: 0;">
+  </header>
+
+  <!-- Begin page content -->
+  <main role="main" id="main" class="flex-shrink-0 row d-flex justify-content-center" style="padding:0">
+
+    <section class="row w-100 container" style="padding-right: 0;padding-left: 0;padding-top: 10px;">
+      <!--video-->
+      <div style="padding: 0;" id="main-content" class="col-xs-12 col-sm-8" style="padding: 0;">
+
+      </div>
+      <!--modulos-->
+      <div id="list_modules" class="col-xs-12 col-sm-4" style="padding: 0;height: 400px;">
+
+
+      </div>
+    </section>
+
+    <section class="row w-100 container" style="padding: 0;">
+      <div id="tabs" class="project-tab  col-sm-8 col-xs-12" style="padding:0;">
+
+        <nav class="d-flex justify-content-between flex-wrap course-primary-color" id="nav-project-tab">
+          <div class="nav nav-tabs nav-fill w-100" id="nav-tab" role="tablist">
+
+            <a class="nav-item nav-link  active" id="nav-about-tab" data-toggle="tab" href="#nav-about" role="tab"
+              aria-controls="nav-about" aria-selected="false" onclick="isContentTab = false">
+              <i class="fa fa-bookmark" aria-hidden="true"></i> Visão geral
+            </a>
+
+            <a class="nav-item nav-link" id="nav-alert-tab" data-toggle="tab" href="#nav-alert" role="tab"
+              aria-controls="nav-alert" aria-selected="false" onclick="isContentTab = false"><i
+                class="fa fa-exclamation" aria-hidden="true"></i>
+
+              Avisos <span class="badge button-color"></span></a>
+
+            <a class="nav-item nav-link" id="nav-archive-tab" data-toggle="tab" href="#nav-archive" role="tab"
+              aria-controls="nav-archive" aria-selected="false" onclick="isContentTab = false"><i class="fa fa-download"
+                aria-hidden="true"></i>
+              Arquivos <span class="badge button-color"></span></a>
+
+            <a class="nav-item nav-link" id="nav-content-tab" data-toggle="tab" href="#nav-content" role="tab"
+              aria-controls="nav-content" aria-selected="false" onclick="isContentTab = true"><i class="fa fa-book"
+                aria-hidden="true"></i>Conteúdo</a>
+
+
+            <a class="nav-item nav-link d-none" id="nav-certificate-tab" data-toggle="tab" href="#nav-certificate"
+              role="tab" aria-controls="nav-certificate" aria-selected="false" onclick="isContentTab = false"><i
+                class="fa fa-trophy" aria-hidden="true"></i>
+              Certificado</a>
+
+            <button class="btn course-button" style="width: 10rem;margin-top: 5px;" id="goToNextClass"
+              onclick="setClassWatchedAndRedirect()">
+              <strong>
+                Concluir Aula
+              </strong>
+            </button>
+
+          </div>
+        </nav>
+
+
+        <div class="">
+          <div class="tab-content p-2 w-100" id="nav-tabContent">
+            <div class="tab-pane fade show active course-primary-color" id="nav-about" role="tabpanel"
+              aria-labelledby="nav-about-tab">
+            </div>
+            <div class="tab-pane fade course-primary-color" id="nav-alert" role="tabpanel"
+              aria-labelledby="nav-alert-tab">
+            </div>
+            <div class="tab-pane fade" id="nav-archive" role="tabpanel" aria-labelledby="nav-archive-tab">
+            </div>
+            <div class="tab-pane fade" id="nav-content" role="tabpanel" aria-labelledby="nav-content-tab">
+            </div>
+            <div class="tab-pane fade course-primary-color" id="nav-certificate" role="tabpanel"
+              aria-labelledby="nav-certificate-tab">
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="col-sm-4 col-xs-12" style="padding-right:0 ;">
+        <div class="card w-100">
+          <div class="card-header course-card-color" style="border-radius: 0;padding: 20px;">
+            <h5 class="mb-0" style="cursor: pointer;font-size:20px;">
+              <strong class="" style="font-weight: initial;">
+                Anotações
+              </strong>
+            </h5>
+          </div>
+          <textarea name="note" id="note" cols="30" rows="10" placeholder="Escreva suas anotações"
+            style="border:none;"></textarea>
+          <div>
+            <button class="button course-button" id="btn-save-note">
+              <strong>
+                Salvar
+              </strong>
+            </button>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  <div id="commentable" class="w-100 container"></div>
+
+  <footer class="footer mt-auto row">
+  </footer>
+
+  <!-- cursos -->
+  <script src="../assets/js/jquery-3.5.1.js" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="../config/platform.js"></script>
+<script type="text/javascript" src="../assets/js/app.js"></script>
+<script type="text/javascript" src="../config/template.js"></script>
+    <script type="text/javascript" src="../config/menu.js"></script>
+  
+  <script type="text/javascript" src="../assets/js/api-auth.js"></script>
+  <script type="text/javascript" src="../assets/js/api-template.js"></script>
+  <script type="text/javascript" src="../assets/js/search-content.js"></script>
+  <script type="text/javascript" src="../assets/js/api-content.js"></script>
+  <script type="text/javascript" src="../assets/js/api-course.js"></script>
+  <!-- youtube -->
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <!-- vimeo -->
+  <script src="https://player.vimeo.com/api/player.js"></script>
+  <script type="text/javascript" src="../assets/js/video.js"></script>
+  <script type="text/javascript" src="../assets/js/like.js"></script>
+  <script type="text/javascript" src="../assets/js/comments.js"></script>
+  <script type="text/javascript" src="../assets/js/utils.js"></script>
+  <script type="text/javascript" src="../assets/js/layout.js"></script>
+  <script type="text/javascript" src="../assets/js/toastr.js"></script>
+  <script type="text/javascript" src="content-2.js"></script>
+  <script type="text/javascript" src="content.js"></script>
+  <script type="text/javascript" src="../assets/js/jquery.paginate.js"></script>
+
+</body>
+
+</html>
