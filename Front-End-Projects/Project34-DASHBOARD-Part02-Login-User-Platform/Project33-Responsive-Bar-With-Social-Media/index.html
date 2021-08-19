@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive NavBar</title>
+    <link href="css/headernavbar.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/969267607d.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <label class="toggle">
+            <i class="fa fa-bars"></i>
+        </label>
+        <ul>
+            <li><a class="active" href='#'>Home</a></li>
+            <li><a href='#'>Services</a></li>
+            <li><a href='#'>Company</a></li>
+            <li><a href='#'>Blog</a></li>
+            <li><a href='#'>Contact</a></li>
+        </ul>
+        <div class="socialtop">
+            <div class='top-social'>
+                <a href='https://fb.com/jonypeixotooficial'><i class='fab fa-facebook'></i></a>
+                <a href='https://youtube.com/jonypeixotoyt'><i class='fab fa-youtube'></i></a>
+                <a href='https://open.spotify.com/user/vlfntxg16c6vmvicviub6scvf?si=84RFkYg-QsuSRE0Xol6ZxA&utm_source=copy-link'><i class='fab fa-spotify'></i></a>
+                <a href="https://reddit.com/user/jonypeixoto"><i class='fab fa-reddit'></i></a>
+                <a href="https://linkedin.com/in/jonathanpeixoto"><i class='fab fa-linkedin'></i></a>
+                <a href='https://instagram.com/jonypeixoto'><i class='fab fa-tiktok'></i></a>
+                <a href='https://tiktok.com/@superinsights'><i class='fab fa-instagram'></i></a>
+                <a href='https://t.me/cybertimeup'><i class='fab fa-telegram'></i></a>
+                <a href='https://pinterest.com/jonypeixoto'><i class='fab fa-pinterest'></i></a>
+                <a href='https://twitter.com/peixotojony'><i class='fab fa-twitter'></i></a>
+            </div>
+        </div>
+    </nav>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script>
+        $('.toggle i').click(function () {
+            $('ul').toggleClass("show");
+        });
+    </script>
+    <section></section>
+</body>
+</html>
