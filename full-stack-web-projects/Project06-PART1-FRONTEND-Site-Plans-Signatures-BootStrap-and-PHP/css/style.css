@@ -1,0 +1,215 @@
+/**Boostrap logo*/
+
+.navbar-brand{
+	font-size: 23px;
+}
+/***/
+
+.box{
+	position: relative;
+	top: 30px;
+}
+
+section.banner{
+	padding: 210px 0;
+	position: relative;
+	min-height: 400px;
+	background-image: url('../images/bg.jpg');
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+section.banner > .container{
+	position: relative;
+	z-index: 2;
+}
+
+.overlay{
+	z-index: 1;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+	background: rgba(15,15,15,0.5);
+}
+
+
+.call-banner h2{
+	color: #26A599;
+	font-size: 50px;
+}
+
+.call-banner p{
+	margin:24px 0;
+	color: white;
+	font-size: 21px;
+}
+
+.call-banner a{
+	display: inline-block;
+	color: white;
+	font-size: 19px;
+	padding:10px 18px;
+	background: #26A69A;
+}
+
+section.register-lead{
+	background: #26A69A;
+	padding:20px 0;
+}
+section.register-lead h2{
+	color: white;
+	font-size: 24px;
+	vertical-align: middle;
+}
+
+section.register-lead form{
+	position: relative;
+	top: 10px;
+}
+
+section.register-lead input[type=text]{
+	width: 85%;
+	padding-left: 8px;
+	height: 40px;
+	vertical-align: middle;
+	border:1px solid #ccc;
+}
+section.register-lead input[type=submit]{
+	width: 15%;
+	vertical-align: middle;
+	height: 40px;
+	border:1px solid #ccc;
+}
+
+section.testimonial{
+	padding: 40px 0;
+}
+
+section.testimonial h2{
+	color: #4b4b4b;
+}
+
+section.testimonial blockquote{
+	color: #4b4b4b;
+	font-size: 16px;
+}
+
+section.differentials{
+	padding:20px 0;
+	background: rgb(225,225,225);
+}
+
+section.differentials > h2{
+	color: #4b4b4b;
+}
+
+.differentials-container{
+	margin-top: 30px;
+}
+
+.differentials-container h3{
+	color: #26A69A;
+}
+
+.differentials-container h2{
+	font-size: 22px;
+}
+
+
+.team-container{padding-top: 30px;padding-bottom: 30px;}
+.team-single{
+	margin-bottom: 15px;
+	width: 100%;
+	min-height: 210px;
+	padding: 20px 10px;
+	border: 1px solid #ccc;
+	box-shadow: 8px 7px 5px -3px rgba(20,20,20,0.6);
+}
+
+section.team h2{
+	margin: 0;
+	text-align: center;
+	padding: 10px 2%;
+	background: #26A69A;
+	color: white;
+}
+
+.user-picture{
+	width: 100%;
+	padding-top: 100%;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%,0%);
+}
+
+.user-picture-child{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	border-radius: 50%;
+	height: 100%;
+	background-color: #ccc;
+}
+
+.user-picture-child > span{
+	color: rgb(110,110,110);
+	font-size: 20px;
+	position: relative;	
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+
+section.final-site{
+	padding:30px 0;
+	color: #4b4b4b;
+}
+
+section.final-site textarea{
+	height: 120px;
+}
+
+section.final-site h2{
+	margin:20px 0;
+	font-size: 26px;
+}
+
+footer{
+	background: rgb(225,225,225);
+	padding: 20px 0;
+}
+
+footer p{
+	margin: 0;
+}
+
+@media screen and (max-width: 1024px){
+
+.user-picture{
+	width: 40%;
+	padding-top: 40%;
+	position: relative;
+}
+
+	section.register-lead form{
+	position: relative;
+	top: 0px;
+}
+} 
+
+@media screen and (max-width: 500px){
+.call-banner h2{
+	color: #26A599;
+	font-size: 35px;
+}
+
+section.register-lead input[type=submit]{
+	width: 200px;
+	margin-top: 8px;
+	display: inline-block;
+}
+}
