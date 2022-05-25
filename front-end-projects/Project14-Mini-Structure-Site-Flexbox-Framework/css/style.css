@@ -1,0 +1,42 @@
+/** Specific classes for the site **/
+
+header.top-site{
+	padding: 20px 0;
+}
+
+.logo{
+	font-size: 22px;
+	font-family: Verdana;
+}
+
+header.top-site ul li{
+	position: relative;
+	top: 4px;
+	padding: 0 20px;
+	font-size: 17px;
+	display: inline-block;
+}
+
+header.top-site a{
+	text-decoration: none;
+}
+
+.slider{
+	min-height: 600px;
+}
+
+.slider p{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 30px;
+	display: inline-block;
+	border-bottom: 4px solid white;
+	color: white;
+}
+
+.promo{
+	padding: 40px 0;
+}
+
+

@@ -1,0 +1,181 @@
+*{
+  font-family: "Open Sans";
+}
+
+/*
+
+.custom-toggler.navbar-toggler {
+  
+    border-color: green;
+    background: red;
+  
+}
+.custom-toggler .navbar-toggler-icon {
+  
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  
+}
+
+*/
+
+.navbar{
+  background: white;
+}
+
+.nav-link{
+  margin: 0 15px;
+}
+
+/* Own styles */
+.box-fix{
+  position: relative;
+  top: 55px;
+
+}
+section.bg-top{
+  width: 100%;
+  min-height: 600px;
+  background-image: url('../images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+}
+.fix-zindex{
+  position: relative;
+  top: 10px;
+  z-index: 2;
+}
+.overlay{
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgba(100,100,100,0.4);
+}
+
+.text-bg{
+  display: inline-block;
+  color: white;
+  margin-top:140px;
+  padding: 140px 0;
+}
+
+.padding30{
+  padding-right: 30px;
+}
+
+section.call{
+  background: #3FA3C5;
+  padding: 8px 0;
+  color: white;
+}
+
+section.call h2{
+  font-size: 34px;
+}
+
+section.about{padding: 30px 0;}
+
+.custom-title{position: relative;}
+
+.custom-title h2{
+  color: #888;
+  font-size: 25px;
+}
+
+.custom-title div{
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #3FA3C5;
+  width: 30px;
+  height: 4px;
+}
+
+section.differentials{
+  padding: 30px;
+  color: #646464;
+}
+
+section.differentials .col-md-4{
+  padding: 0 40px;
+}
+
+section.differentials h2{
+  padding: 10px;
+  border-bottom: 1px dotted black;
+}
+
+section.invitation{
+  padding: 15px 0;
+  background: #3FA3C5;
+}
+
+section.invitation h2{
+  font-size: 28px;
+  margin: 15px 0;
+  color: white;
+}
+
+
+section.invitation form{
+  margin: 15px 0;
+}
+
+section.invitation input[type=email]{
+  width: calc(100% - 100px);
+  height: 40px;
+}
+
+section.invitation button{
+  width: 100px;
+  height: 40px;
+  vertical-align: top;
+}
+
+section.contact{
+  padding: 30px 0;
+  background: rgb(225,225,225);
+}
+
+footer{
+  padding: 14px 0;
+  background: #333;
+  color: white;
+}
+
+footer ul{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  list-style-position: inside;
+}
+
+.group-btns a{
+  margin: 0 10px;
+}
+
+footer a{
+  color: white;
+  font-size: 17px;
+}
+
+@media screen and (max-width: 1024px){
+/*
+  .navbar-nav{
+    margin-top: 30px;
+  }
+  .nav-link{
+  border-top: 1px solid black;
+  margin:0 10px;
+}
+*/
+
+.nav-link{ 
+  margin: 0;
+}
+}
+
