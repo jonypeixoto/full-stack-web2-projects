@@ -1,0 +1,215 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Open Sans"
+}
+
+html,body{
+	height: 100%;
+}
+
+@font-face{
+	src:url('../fonts/OpenSans-Light.ttf');
+	font-family: "Open Sans";
+}
+
+.clear{
+	clear: both;
+}
+
+.center{
+	width: 1200px;
+	margin: 0 auto;
+	padding:0 2%;
+}
+
+.header{
+	min-width: 1200px;
+	width: 100%;
+	height: 60px;
+	background-color: #212343;
+}
+
+.header img{
+	margin: 15px;
+}
+
+.container-banner{
+	width: 100%;
+	min-width: 1200px;
+	height: 557px;
+	background-image:url('../images/header_bg.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.container-banner > .center{
+	height: 100%;
+	/*text-align: right;*/
+}
+
+.form{
+	padding:10px;
+	width: 400px;
+	height: calc(100% + 30px);
+	float: right;
+	position: relative;
+	top:-15px;
+	border-width: 12px;
+	border-color: rgba(120,120,120,0.5);
+	border-style: solid;
+	background-color: white;
+	background-clip:padding-box;
+	/*background-origin tem o mesmo conceito porém serve para imagens.*/
+}
+
+.form h2{
+	font-weight: normal;
+	color: #999999;
+	font-size: 21px;
+}
+
+.input-container{
+	margin-top:20px;
+}
+
+.input-container span{
+	display: inline-block;
+	width: 100%;
+	color: #BBBBBB;
+	font-size: 17px;
+}
+
+.form p{
+	display: inline-block;
+	width: 100%;
+	color: #BBBBBB;
+	font-size: 17px;
+	margin:20px 0;
+}
+
+.input-container input[type=text]{
+	margin-top:8px;
+	width: 344px;
+	height: 55px;
+	border:1px solid #ccc;
+}
+
+.form .input-submit-container{
+	text-align: center;
+}
+
+.form input[type=submit]{
+	color: white;
+	font-size: 25px;
+	width: 280px;
+	height: 56px;
+	display: inline-block;
+	background-color: #363A6D;
+	border-top:0;
+	border-right: 0;
+	border-left: 0;
+	cursor: pointer;
+	border-bottom: 5px solid #4A5097;
+}
+
+.form input[type=submit]:hover{
+	background-color: #323665;
+}
+
+.container-list{
+	padding:30px;
+	margin-top:100px;
+	float: left;
+	width: 519px;
+	height: 270px;
+	background-color: rgba(33,35,67,0.7);
+}
+
+.container-list ul{
+	list-style-position: inside;
+}
+
+.container-list ul li{
+	margin-top:18px;
+	color: white;
+}
+
+
+.container-2{
+	min-width: 1200px;
+	padding:40px 0;
+	background-color: #ddd;
+	text-align: center;
+}
+
+.container-2 h2{
+	font-weight: normal;
+}
+
+.container-2 p{
+	width: 698px;
+	margin:15px 0;
+	display: inline-block;
+	text-align: justify;
+}
+
+.arrow{
+	position: relative;
+	top:60px;
+	left:50%;
+	margin-left: -20px;
+	width: 40px;
+	height: 40px;
+	background-image: url('../images/arrow.png');
+	background-size: 100% 100%;
+}
+
+.section-1{
+	min-width: 1200px;
+	padding:90px 0;
+}
+
+.section-1 h2{
+	text-align: center;
+	color: #462663;
+	font-weight: normal;
+}
+
+.container-section{
+	margin-top:40px;
+}
+
+.container-section{
+	text-align: center;
+}
+
+.container-single{
+	float: left;
+	width: 33.3333%;
+	padding:30px;
+}
+
+
+.container-single p{
+	display: inline-block;
+	text-align: justify;
+	padding:10px 25px;
+}
+
+.container-single img{
+	width:70px;
+}
+
+.footer{
+	/*clear:both;*/
+	border-top:2px solid #888888;
+	padding:20px 0;
+	text-align: center;
+	color: #888;
+}
+
+.footer p{
+	margin-top:8px;
+}
