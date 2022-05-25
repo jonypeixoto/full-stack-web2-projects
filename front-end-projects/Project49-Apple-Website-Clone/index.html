@@ -1,0 +1,83 @@
+<html>
+    <head>
+        
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+       
+        <header>
+            <nav class="menu-mobile">
+                <a class="btn-close" href="">X</a>
+                <i class="btn-menu fas fa-bars"></i>
+                <a style="font-size: 19px;" href=""><i class="fab fa-apple"></i></a>
+                <ul class="items-mobile">
+                    <li><a href="#">Mac</a></li>
+                    <li><a href="#">iPad</a></li>
+                    <li><a href="#">iPhone</a></li>
+                    <li><a href="#">Watch</a></li>
+                    <li><a href="#">TV</a></li>
+                    <li><a href="#">Music</a></li>
+                    <li><a href="#">Suporte</a></li>
+                </ul>
+                
+                <a href=""><i class="fas fa-shopping-bag"></i></a>
+            </nav>
+
+
+            <nav class="menu-desktop">
+                <a href=""><i class="fab fa-apple"></i></a>
+                <ul>
+                    <li><a href="#">Mac</a></li>
+                    <li><a href="#">iPad</a></li>
+                    <li><a href="#">iPhone</a></li>
+                    <li><a href="#">Watch</a></li>
+                    <li><a href="#">TV</a></li>
+                    <li><a href="#">Music</a></li>
+                    <li><a href="#">Suporte</a></li>
+                </ul>
+                <a class="search-icon" href=""><i class="fas fa-search"></i></a>
+                <a href=""><i class="fas fa-shopping-bag"></i></a>
+            </nav>
+        </header>
+
+        <section class="demo">
+            <h1>iPhone 12 PRO</h1>
+            <h3>Um Salto Radical.</h3>
+            <div class="links-compra">
+                <a href="#">Saiba mais ></a>
+                <a href="#">Comprar ></a>
+            </div>
+
+            <img src="phone.png" />
+        </section>
+    
+
+        <script>
+            var btnAbrir = document.querySelector('.btn-menu');
+            var btnClose = document.querySelector('.btn-close');
+            btnAbrir.addEventListener('click',()=>{
+                
+                let menu = document.querySelector('.items-mobile');
+                
+               menu.style.height = 400;
+               
+               btnAbrir.style.display = "none";
+               btnClose.style.display = "block";
+                
+            });
+
+            btnClose.addEventListener('click',(e)=>{
+                e.preventDefault();
+                let menu = document.querySelector('.items-mobile');
+                
+               menu.style.height = 0;
+               
+               btnAbrir.style.display = "block";
+               btnClose.style.display = "none";
+            })
+        </script>
+
+    </body>
+</html>

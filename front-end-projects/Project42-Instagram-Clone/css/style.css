@@ -1,0 +1,215 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Lato";
+}
+
+.center{
+    max-width: 900px;
+    padding:0 2%;
+    margin:0 auto;
+}
+
+
+body{
+    background-color:rgb(245,245,245);
+}
+
+header{
+    background-color: white;
+}
+
+.clear{
+    clear: both;
+}
+
+header > .center{
+    display: flex;
+}
+
+.logo-header{
+    width: 30%;
+}
+
+.logo-header img{
+    width:100%;
+    max-width: 200px;
+}
+
+.search{
+    text-align: center;
+    width: 50%;
+    padding-top:15px;
+}
+
+.search-box{
+    display: inline-block;
+    position: relative;
+}
+
+.search-box input{
+    background-color: rgb(245,245,245);
+    padding:5px 10px;
+    width:200px;
+    text-align: center;
+    border:1px solid rgb(200,200,200);
+}
+
+.search-box i{
+    position: absolute;
+    left:40px;
+    top:6px;
+    opacity: 0.3;
+}
+
+.notifications-icons{
+    width: 20%;
+    text-align: right;
+    padding-top:20px;
+}
+
+.notifications-icons a{
+    text-decoration: none;
+    color: black;
+    font-size:22px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.notifications-icons .img-miniature{
+    width:25px;
+    height:25px;
+    border-radius:50%;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    top:3px;
+}
+
+
+.img-perfil-wraper{
+    float: left;
+    width: 50%;
+    padding:0 50px;
+}
+
+.img-perfil{
+    background-size: 100% 100%;
+    width: 60%;
+    padding-top: 60%;
+    border-radius: 50%;
+    border:3px solid #ccc;
+    background-repeat:no-repeat;
+}
+
+.texto-perfil{
+    float: left;
+    width:50%;
+}
+
+.nome-perfil span{
+    font-size:23px;
+    font-weight: 300;
+}
+
+.nome-perfil a.btn-primario{
+    text-decoration: none;
+    margin:0 8px;
+    color: black;
+    border:1px solid #dbdbdb;
+    padding:4px 10px;
+}
+
+.nome-perfil a.icon{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+
+.info-perfil p{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.descricao-perfil h3{
+    font-size:18px;
+}
+
+.descricao-perfil p{
+    font-weight: 300;
+    font-size:16px;
+    margin-top:8px;
+}
+
+
+section.feed{
+    padding:60px 0;
+}
+
+.line-feed{
+    border-top:1px solid #ccc;
+    text-align: center;
+}
+
+
+.line-marcacao{
+    display: none;
+    position: absolute;
+    width:110px;
+    height:1px;
+    background-color: black;
+    top:-10px;
+}
+
+
+.single-line-name{
+    text-transform: uppercase;
+    margin:10px 10px;
+    position: relative;
+    font-size:16px;
+    font-weight: 300;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.publicacao-single{
+    float: left;
+    width:33.3%;
+    padding-top:33.3%;
+    border:4px solid white;
+    background-size:100% 100%;
+}
+
+
+/*Aplicar estilo padrão para as abas*/
+
+#igtv{
+    display: none;
+}
+
+
+/*Temporário*/
+/*
+    O ideal é trocar em cada elemento.
+*/
+
+section#salvos .publicacao-single{
+    background-image: none !important;
+    background-color:red;
+}
+
+section#marcacoes .publicacao-single{
+    background-image: none !important;
+    background-color:green;
+}
+
+
+@media screen and (max-width:580px){
+    .search-box{
+        display: none;
+    }
+    .notifications-icons{padding-top:8px;}
+}

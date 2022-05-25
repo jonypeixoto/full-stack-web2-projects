@@ -1,0 +1,118 @@
+@font-face{
+    font-family: "SF PRO";
+    src: url('sf2.ttf') format('truetype');
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "SF PRO";
+}
+
+body{
+    background-color:black;
+}
+
+header{
+    padding:8px 2%;
+    background-color: #333;
+    text-align: center;
+}
+
+nav.menu-desktop ul{display: inline-block;}
+
+
+
+.menu-desktop li {
+    display: inline-block;
+    color:white;
+    margin:0 30px;
+    font-size: 14px;
+}
+
+.menu-desktop a{
+    color:white;
+    text-decoration: none;
+    margin:0 5px;
+}
+
+.menu-desktop a.search-icon{
+    margin-right: 20px;
+}
+
+section.demo{
+    text-align: center;
+    padding:50px 0;
+    color:white;
+}
+
+section.demo h1{
+    font-size: 40px;
+}
+section.demo h3{
+    font-size: 25px;
+    margin:20px 0;
+}
+
+.links-compra a{
+    color:#06c;
+    font-size: 19px;
+    margin:0 15px;
+}
+
+section.demo img{
+    margin-top:90px;
+    display: inline-block;
+    max-width: 900px;
+    width:100%;
+}
+
+.menu-mobile{
+    display: none
+}
+
+.btn-close{
+    display: none;
+}
+
+@media screen and (max-width: 768px){   
+.menu-desktop{
+    display: none;
+}
+
+.menu-mobile{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-menu{
+    cursor: pointer;
+    color:white;
+}
+
+.menu-mobile a{
+    color:white;
+}
+
+.items-mobile{
+    height:0px;
+    overflow:hidden;
+    transition:1s;
+    position: absolute;
+    left:0;
+    top:40px;
+    background-color:black;
+    width:100%;
+    text-align: left;
+    padding:20px;
+}
+
+.items-mobile li{
+    padding:20px 0;
+    border-bottom:1px solid rgba(255,255,255,0.3);
+}
+
+.items-mobile a{text-decoration: none;}
+
+}

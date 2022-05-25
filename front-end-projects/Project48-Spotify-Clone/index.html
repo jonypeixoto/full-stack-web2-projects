@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Spotify Clone</title>
+	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-wraper">
+
+            <div class="sidebar__logo">
+                <img src="images/logo.png" />
+            </div><!--sidebar--logo-->
+
+            <div class="sidebar__menu">
+                <a class="sidebar__menu__selected" href="#"><i class="fas fa-home"></i> Home</a>
+                <a href="#"><i class="fas fa-search"></i> Search</a>
+                <a href="#"><i class="fas fa-database"></i> Library</a>
+            </div><!--sidebar-menu-->
+
+            <div class="sidebar__menu">
+                <p class="sidebar__menu__title">Playlists</p>
+
+                <div class="sidebar__menu__item">
+                    <div class="sidebar__menu__item__component">
+                        +
+                    </div><!--sidebar-menu-component-->
+                    <span>Create Playlist</span>
+                </div><!--sidebar-menu-item-->
+
+                <div class="sidebar__menu__item">
+                    <img src="images/songs_liked.png" />
+                    <span>Songs Liked</span>
+                </div><!--sidebar-menu-item-->
+
+            </div><!--sidebar-menu-->
+
+            <div class="sidebar__playlists">
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+            </div><!--sidebar-playlists-->
+
+            <div class="sidebar__playlists">
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+            </div><!--sidebar-playlists-->
+
+            <div class="sidebar__playlists">
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+                <a href="">Playlist 1</a>
+            </div><!--sidebar-playlists-->
+
+        </div><!--sidebar-wraper-->
+
+    </div><!--sidebar-->
+
+    <div class="main">
+        <div class="main-wraper">
+
+            <div class="main__row">
+                <div class="main__row__title"><h2>Stopped</h2></div><!--main-row-title-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50global.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+                <div class="main__col">
+                    <img src="images/top50.png" />
+                    <h3>The 50 most played</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+            </div><!--main-row-->
+
+            <div class="main__row">
+                <div class="main__row__title"><h2>My songs</h2></div><!--main-row-title-->
+
+                <div class="main__col" data-image="images/gunsrools.png" data-artist="Guns N Roses" data-song="Sweet Child Of Mine" data-file="assets/music.mp3" >
+                    <img src="images/gunsrools.png" />
+                    <h3>Guns N Roses</h3>
+                    <p>Sweet Child Of Mine</p>
+                </div><!--main-col-->
+
+                <div class="main__col" data-image="images/rocky.png" data-artist="Rocky Balboa" data-song="Gonna Fly" data-file="assets/music.mp3">
+                    <img src="images/rocky.png" />
+                    <h3>Rocky Balboa</h3>
+                    <p>Here is the description of my song...</p>
+                </div><!--main-col-->
+
+            </div><!--main-row-->
+
+        </div><!--main-wraper-->
+    </div><!--main-->
+
+    <div class="player">
+        <div class="player__artist">
+
+        </div><!--player-artist-->
+        <div class="player__control">
+            <div class="player__control__buttons">
+                <a href=""><i class="fas fa-backward"></i></a>
+                <a style="display: none;" id="pauseBtn" href="#"><i class="far fa-pause-circle"></i></a>
+                <a id="playBtn" href="#"><i class="far fa-play-circle"></i></a>
+                <a href=""><i class="fas fa-forward"></i></a>
+            </div><!--player-control-buttons-->
+
+            <div class="player__control__progress">
+                <div style="width: 0%;" class="player__control__progress_2"></div>
+            </div>
+
+        </div><!--player-control-->
+    </div><!--player-->
+
+    <audio id="audioplayer" style="position: absolute; left: 0; top: 0;z-index: -999;opacity: 0;" controls="">
+
+    </audio>
+
+    <script src="js/all.min.js"></script>
+
+    <script src="js/spotify.js"></script>
+
+</body>
+</html>
