@@ -1,0 +1,71 @@
+.becausewe h2{
+    font-size: 54px;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.becausewe{
+    background: #FBFCFE 0% 0% no-repeat padding-box;
+}
+
+.becausewe p{
+    color: #7E92AC;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.cards{
+    padding-top: 40px;
+    display: flex;
+}
+
+@media screen and (max-width: 964px) {
+    .cards{
+        flex-direction: column;
+    }
+}
+
+.card1, .card2, .card3{
+    width: 31%;
+    margin: 2%;
+    padding: 40px 10px;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px #2426721C;
+}
+
+@media screen and (max-width: 964px) {
+    .card1, .card2, .card3{
+        width: 350px;
+    }
+}
+
+.card1 h3{
+    margin: 20px 0;
+}
+
+.card2 h3{
+    margin: 20px 0;
+}
+
+
+.card3 h3{
+    margin: 20px 0;
+}
+
+.card1 span{
+    font-size: 12px;
+    color: #7E92AC;
+}
+
+.card2 span{
+    font-size: 12px;
+    color: #7E92AC;
+}
+
+
+.card3 span{
+    font-size: 12px;
+    color: #7E92AC;
+}

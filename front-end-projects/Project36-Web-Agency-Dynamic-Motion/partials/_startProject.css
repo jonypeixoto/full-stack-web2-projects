@@ -1,0 +1,45 @@
+.start-project{
+    background-image: url('/images/BANNER\ IMG.svg');
+    background-position: center;
+    background-size: cover;
+    min-height: 250px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.start-project h2{
+    font-size: 54px;
+    color: #fff;
+    font-weight: normal;
+    padding: 20px 0;
+}
+
+@media screen and (max-width: 964px) {
+    .start-project h2{
+        font-size: 24px;
+    }
+}
+
+.start-project p{
+    color: #7E92AC;
+    padding-top: 10px;
+}
+
+.btn-project{
+        background-color: #FFDD33;
+        text-transform: uppercase;
+        color: #7E92AC;
+        border: unset;
+        padding: 12px 32px;
+        margin-top: 40px;
+        border-radius: 8px;
+        font-weight: 700;
+        cursor: pointer;
+        transition: 0.4s ease;
+}
+
+.btn-project:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow: 0px 20px 40px #2423423f;
+    color: #04195b;
+}
