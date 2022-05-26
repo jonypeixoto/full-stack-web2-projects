@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTempConverter</string>
+    <string name="el_label_temp">Type Temperature</string>
+    <string name="rd_label_celsius">Celsius</string>
+    <string name="rd_label_fahreinheit">Fahreinheit</string>
+    <string name="btn_label_converter">CONVERTER TEMPERATURE</string>
+</resources>
