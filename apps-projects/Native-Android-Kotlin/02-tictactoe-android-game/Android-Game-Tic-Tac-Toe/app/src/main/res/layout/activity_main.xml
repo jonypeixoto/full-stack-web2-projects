@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/jogo_da_velha"
+        android:adjustViewBounds="false"
+        android:scaleType="centerInside"/>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:gravity="center">
+
+        <TableRow
+            android:layout_width="match_parent"
+            androidlayout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+            android:id="@+id/btn1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            style="@style/BtnGame"
+            />
+
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+            <Button
+                android:id="@+id/btn3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            androidlayout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btn4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+            <Button
+                android:id="@+id/btn5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+            <Button
+                android:id="@+id/btn6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            androidlayout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btn7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+            <Button
+                android:id="@+id/btn8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+            <Button
+                android:id="@+id/btn9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                style="@style/BtnGame"
+                />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/restart"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@color/colorPrimary"
+        android:text="@string/reiniciar"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:onClick="restart"/>
+
+</LinearLayout>
