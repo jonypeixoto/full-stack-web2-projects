@@ -1,4 +1,4 @@
-# Full Stack Web 2.0 PROJECTS
+# Full Stack Web 2.0 Projects
 ![NPM](https://img.shields.io/npm/l/react)
 
 This repository was created to put into practice the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus on <b>advanced projects</b>.
