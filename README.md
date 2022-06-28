@@ -1,6 +1,42 @@
-<h1 align="center">Full Stack Web 2.0 Projects</h1>
-	
-![NPM](https://img.shields.io/npm/l/react)
+<h1 align="center">
+    <img alt="Linux GitHub Repo List" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/hacking-tips-and-tools.png" />
+    <br>
+    Full Stack Web 2.0 Projects
+</h1>
+
+<h4 align="center">
+  Hacking Tips and Tools is a repository for the basics of hacking that every programmer in the world should know: 
+  <a href="https://www.kali.org/tools/">Kali Tools</a>
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/hacking-tips-and-tools">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/hacking-tips-and-tools">
+  
+  <a href="https://www.codacy.com/gh/jonypeixoto/hacking-tips-and-tools/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jonypeixoto/hacking-tips-and-tools&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/f97224b8ee5942bdb2f16bf319b8be7d">
+  </a>
+  
+  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/hacking-tips-and-tools">
+  <a href="https://github.com/jonypeixoto/hacking-tips-and-tools/commits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/hacking-tips-and-tools">
+  </a>
+  
+  <a href="https://github.com/jonypeixoto/hacking-tips-and-tools/issues">
+    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/hacking-tips-and-tools">
+  </a>
+  
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/hacking-tips-and-tools"> 
+</p>
+
+<p align="center">
+  <a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#star2-author">Author</a>
+</p>
 
 This repository was created to put into practice the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus on <b>advanced projects</b>.
 
@@ -19,6 +55,30 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/>
 
+## :warning: Prerequisites
+
+Follow the instructions in each folder in each README and if necessary check the official website for each documentation.
+
+The forums and search engines mentioned below are quite useful:
+
+- [GitHub Community](https://github.community)
+- [Google](https://google.com)
+- [DuckDuckGo](https://duckduckgo.com)
+- [StartPage](https://startpage.com)
+- [Stack OverFlow](https://stackoverflow.com)
+- [Google Developers](https://developers.google.com)
+- [Code Project](https://www.codeproject.com)
+- [Source Forge](https://sourceforge.net)
+- [Geeks for Geeks](https://www.geeksforgeeks.org)
+
+<br/>
+
+## :information_source: How To Use
+
+## Each folder of the "full-stack-web2-projects" repository
+Follow the instructions shown in each README of each folder of the "full-stack-web2-projects" repository.
+<br/>
+
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## 🚀 Technologies
@@ -35,15 +95,14 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Blockchain Applications:
 
-<a href="https://docs.soliditylang.org" target="_blank">
-  <code><img alt="Solidity" height="30" width="100" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /></code>
-</a>
 <a href="https://ethereum.org" target="_blank">
   <code><img alt="Ethereum" height="30" width="100" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /></code>
 </a>
 <a href="https://bitcoin.com" target="_blank">
   <code><img alt="Bitcoin" height="30" width="100" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /></code>
 </a>
+
+<br/><br/>
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Web/Mobile Applications:
 
