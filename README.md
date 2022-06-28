@@ -5,8 +5,8 @@
 </h1>
 
 <h4 align="center">
-  Hacking Tips and Tools is a repository for the basics of hacking that every programmer in the world should know: 
-  <a href="https://www.kali.org/tools/">Kali Tools</a>
+   Full Stack Web 2.0 Projects is a repository of projects involving web 2.0 that every programmer in the world should know:
+   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/hacking-tips-and-tools">
