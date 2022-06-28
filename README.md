@@ -1,26 +1,29 @@
-# Full Stack Web 2.0 Projects
+<h1 align="center">Full Stack Web 2.0 Projects</h1>
+	
 ![NPM](https://img.shields.io/npm/l/react)
 
 This repository was created to put into practice the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus on <b>advanced projects</b>.
 
-# About repositories
+##  :information_source: Repositories
 
 The purpose of this repository is to organize 3 categories into which my practical studies in programming were separated. Such as:
 
-* <b>Front End Web</b>
+* <b><h3>Front End Web</h3></b>
    * Fundamentals and Basics of Programming Logic, HTML, CSS, Responsive Design, Web Design, Photoshop, Premiere, After Effects, UI / UX, JavaScript, Frameworks JS, ES6, Sass, Less.
-* <b>Back End Web</b>
+* <b><h3>Back End Web</h3></b>
    * Focused on PHP, Hosting, Database, SEO Analytics, MVC, Information Security.
-* <b>Full Stack Web</b>
+* <b><h3>Full Stack Web</h3></b>
    * Focused on developments involving both front end and back end.
-* <b>Apps</b>
+* <b><h3>Apps</h3></b>
    * Focused on developments involving apps from design to creation.
+
+<br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
-# Technologies used
+## 🚀 Technologies
 
-## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Stack Development🆙
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Stack Development🆙
 
 <br/>
   
@@ -30,7 +33,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Blockchain Applications:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Blockchain Applications:
 
 <a href="https://docs.soliditylang.org" target="_blank">
   <code><img alt="Solidity" height="30" width="100" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /></code>
@@ -42,7 +45,7 @@ The purpose of this repository is to organize 3 categories into which my practic
   <code><img alt="Bitcoin" height="30" width="100" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /></code>
 </a>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Web/Mobile Applications:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Web/Mobile Applications:
 
 <a href="https://w3schools.com/html" target="_blank">
   <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
@@ -131,7 +134,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Database, Server, Domain and Hosting:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Database, Server, Domain and Hosting:
 
 <a href="https://jonypeixoto.com">
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
@@ -150,7 +153,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" />  Artificial Intelligence, Machine Learning & Internet of Things:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 />  Artificial Intelligence, Machine Learning & Internet of Things:
 	
 <code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/></code>
@@ -160,14 +163,14 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Responsive Design:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Responsive Design:
 
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
 <code><img height="32" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Design, Utilities & Productivity:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Design, Utilities & Productivity:
 
 <code><img height="30" width="130" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></code>
 <code><img height="30" width="190" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
@@ -189,7 +192,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/> <br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> DevOps:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> DevOps:
 
 <code><img height="32" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>
 <code><img height="32" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
@@ -201,7 +204,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/> <br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Business Tools:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Business Tools:
 
 <code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
@@ -210,7 +213,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Browsers:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Browsers:
 
 <code><img height="32" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" alt="Vivaldi"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"/></code>
@@ -223,7 +226,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 	
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Search Engines:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Search Engines:
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
 <code><img height="32" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/></code>
@@ -236,7 +239,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 <br/><br/>
 
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Operational Systems:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Operational Systems:
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="Mac OS" height="30" width="100" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></code>
@@ -256,7 +259,7 @@ The purpose of this repository is to organize 3 categories into which my practic
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Mobile Apps Licensed By:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Mobile Apps Licensed By:
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="App Store" height="30" width="120" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></code>
@@ -267,12 +270,30 @@ The purpose of this repository is to organize 3 categories into which my practic
 	
 <br/><br/>
 
-# Author
-<b>Jonathan Pereira Peixoto (Jony Peixoto)</b>
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/full-stack-web2-projects/blob/main/LICENSE) for more information.
+
+<br/><br/>
+
+## :star2: Author
+
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
+
+<br/>
 
 <a href="https://www.jonypeixoto.com" target="_blank">
   <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
+
+<br/>
+
+### LIVES:
+
+TikTok: [Jony Tech @jonypeixoto](https://jonypeixoto.com/tiktok)
+
+YouTube: [Jony Peixoto](https://jonypeixoto.com/youtube)
+
+Twitch: [Jony Peixoto](https://jonypeixoto.com/twitch)
 
 
 
