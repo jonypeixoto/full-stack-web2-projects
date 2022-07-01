@@ -43,15 +43,17 @@ This repository was created to put practical web 2.0 projects from the knowledge
 
 ##  :information_source: Repositories
 
-The purpose of this repository is to organize 3 categories into which my practical studies in programming were separated. Such as:
+The purpose of this repository is to organize 5 categories into which my practical studies in programming were separated. Such as:
 
-* <b><h3>Front End Web</h3></b>
+* <b><h3>Front End Web(front-end-projects)</h3></b>
    * Fundamentals and Basics of Programming Logic, HTML, CSS, Responsive Design, Web Design, Photoshop, Premiere, After Effects, UI / UX, JavaScript, Frameworks JS, ES6, Sass, Less.
-* <b><h3>Back End Web</h3></b>
-   * Focused on PHP, Hosting, Database, SEO Analytics, MVC, Information Security.
-* <b><h3>Full Stack Web</h3></b>
+* <b><h3>Back End Web(back-end-projects)</h3></b>
+   * Focused on PHP, NodeJS, Database, Hosting, Database, SEO Analytics, MVC, Information Security.
+* <b><h3>Full Stack Web(full-stack-web-projects)</h3></b>
    * Focused on developments involving both front end and back end.
-* <b><h3>Apps</h3></b>
+* <b><h3>WordPress(wordpress-projects)</h3></b>
+   * Focused on developments involving wordpress from design to creation.
+* <b><h3>Apps(apps-projects)</h3></b>
    * Focused on developments involving apps from design to creation.
 
 <br/>
