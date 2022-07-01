@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="Linux GitHub Repo List" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/fullstack-web2-projects-readme.png" />
+    <img alt="Linux GitHub Repo List" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/app-projects.png" />
     <br>
-    Full Stack Web 2.0 Projects
+    App Projects
 </h1>
 
 <h4 align="center">
-   Full Stack Web 2.0 Projects is a repository of projects involving web 2.0 that every programmer in the world should know:
+   App Projects is a repository of projects involving web 2.0, apps and web apps that every programmer in the world should know:
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 <p align="center">
@@ -45,14 +45,12 @@ This repository was created to put practical web 2.0 projects from the knowledge
 
 The purpose of this repository is to organize 3 categories into which my practical studies in programming were separated. Such as:
 
-* <b><h3>Front End Web</h3></b>
-   * Fundamentals and Basics of Programming Logic, HTML, CSS, Responsive Design, Web Design, Photoshop, Premiere, After Effects, UI / UX, JavaScript, Frameworks JS, ES6, Sass, Less.
-* <b><h3>Back End Web</h3></b>
-   * Focused on PHP, Hosting, Database, SEO Analytics, MVC, Information Security.
-* <b><h3>Full Stack Web</h3></b>
-   * Focused on developments involving both front end and back end.
-* <b><h3>Apps</h3></b>
-   * Focused on developments involving apps from design to creation.
+* <b><h3>Expo</h3></b>
+   * Create amazing apps that run everywhere. Build one JavaScript/TypeScript project that runs natively on all your users' devices.
+* <b><h3>Native Android(Kotlin)</h3></b>
+   * Modern, concise and safe programming language. Easy to pick up, so you can create powerful applications immediately.
+* <b><h3>PWA(Progressive Web App)</h3></b>
+   * Progressive Web App (PWA) is a term used to denote a set of software development processes. Unlike the traditional ones. applications, a Progressive Web App can be seen as a hybrid evolution between web pages regular (or sites) and one mobile app. This new application model combines features offered by the most modern ones. browsers, with the advantages of using one cell phone.
 
 <br/>
 
