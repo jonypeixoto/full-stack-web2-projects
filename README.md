@@ -31,10 +31,10 @@
 </p>
 
 <p align="center">
-  <a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-repositories">Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#star2-author">Author</a>
 </p>
@@ -82,7 +82,7 @@ Follow the instructions shown in each README of each folder of the "full-stack-w
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
-## 🚀 Technologies
+## :rocket: Technologies
 
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Stack Development🆙
 
