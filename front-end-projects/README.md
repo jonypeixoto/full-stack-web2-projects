@@ -43,7 +43,7 @@ This repository was created to put practical front-end and web 2.0 projects from
 
 ##  :information_source: Repositories
 
-The purpose of this repository is to organize 5 categories into which my practical studies in programming were separated. Such as:
+The purpose of this repository is to organize 1 category into which my practical studies in programming were separated. Such as:
 
 * <b><h3>Front End Web(front-end-projects)</h3></b>
    * Focused on HTML, CSS, Sass, Less, VueJS, ReactJS, AngularJS, Database, Hosting, Database, SEO Analytics, MVC, Information Security.
