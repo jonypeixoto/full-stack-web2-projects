@@ -39,7 +39,7 @@
   <a href="#star2-author">Author</a>
 </p>
 
-This repository was created to put practical front-end and web 2.0 projects from the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus is on <b>advanced projects</b>.
+This repository was created to put practical wordpress(PHP, front-end and back-end) and web 2.0 projects from the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus is on <b>advanced projects</b>.
 
 ##  :information_source: Repositories
 
@@ -47,12 +47,17 @@ The purpose of this repository is to organize 1 category into which my practical
 
 * <b><h3>Front End Web(front-end-projects)</h3></b>
    * Focused on HTML, CSS, Sass, Less, VueJS, ReactJS, AngularJS, Database, Hosting, Database, SEO Analytics, MVC, Information Security.
+   
+* <b><h3>Back End Web(back-end-projects)</h3></b>
+   * Focused on PHP, NodeJS, Database, Hosting, Database, SEO Analytics, MVC, Information Security.
 
 <br/>
 
 ## :warning: Prerequisites
 
 Follow the instructions in each folder in each README and if necessary check the official website for each documentation:
+
+## Front-End:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
@@ -74,12 +79,31 @@ Follow the instructions in each folder in each README and if necessary check the
 - [Adobe Premiere](https://www.adobe.com/br/products/premiere.html)
 - [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
 
+## Back-End & PHP(connecting front-end, back-end & infrastructure):
+
+- [PHP](https://php.net)
+- [NodeJS](https://nodejs.org/)
+- [Python](https://python.org)
+- [SEO](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=pt-br)
+- [MySQL](https://www.mysql.com)
+- [Docker](https://www.docker.com)
+- [Redux](https://redux.js.org)
+- [MongoDB](https://www.mongodb.com)
+- [GraphQL](https://graphql.org)
+- [Firebase](https://firebase.google.com/docs/hosting?hl=pt-br)
+- [WebRTC](https://webrtc.org)
+- [GIT](https://git-scm.com)
+- [Awesome Webpack](https://webpack.js.org/awesome-webpack/)
+- [Apache](https://www.apache.org)
+- [NGINX](https://www.nginx.com)
+- [Linux](https://www.linux.org)
+
 <br/>
 
 ## :information_source: How To Use
 
-## Each folder of the "front-end-projects" repository
-Follow the instructions shown in each README of each folder of the "front-end-projects" repository.
+## Each folder of the "wordpress-projects" repository
+Follow the instructions shown in each README of each folder of the "wordpress-projects" repository.
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
