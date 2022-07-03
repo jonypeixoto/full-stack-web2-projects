@@ -59,6 +59,17 @@ Follow the instructions in each folder in each README and if necessary check the
 - [PHP](https://php.net)
 - [SEO](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=pt-br)
 - [MySQL](https://www.mysql.com)
+- [Docker](https://www.docker.com)
+- [Redux](https://redux.js.org)
+- [MongoDB](https://www.mongodb.com)
+- [GraphQL](https://graphql.org)
+- [Firebase](https://firebase.google.com/docs/hosting?hl=pt-br)
+- [WebRTC](https://webrtc.org)
+- [GIT](https://git-scm.com)
+- [Awesome Webpack](https://webpack.js.org/awesome-webpack/)
+- [Apache](https://www.apache.org)
+- [NGINX](https://www.nginx.com)
+- [Linux](https://www.linux.org)
 
 <br/>
 
@@ -77,6 +88,17 @@ Follow the instructions shown in each README of each folder of the "full-stack-w
 - [PHP](https://php.net)
 - [SEO](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=pt-br)
 - [MySQL](https://www.mysql.com)
+- [Docker](https://www.docker.com)
+- [Redux](https://redux.js.org)
+- [MongoDB](https://www.mongodb.com)
+- [GraphQL](https://graphql.org)
+- [Firebase](https://firebase.google.com/docs/hosting?hl=pt-br)
+- [WebRTC](https://webrtc.org)
+- [GIT](https://git-scm.com)
+- [Awesome Webpack](https://webpack.js.org/awesome-webpack/)
+- [Apache](https://www.apache.org)
+- [NGINX](https://www.nginx.com)
+- [Linux](https://www.linux.org)
 
 <br/><br/>
 
