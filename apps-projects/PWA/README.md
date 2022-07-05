@@ -54,7 +54,7 @@ The purpose of this repository is to organize 1 category into which my practical
 
 Follow the instructions in each folder in each README and if necessary check the official website for each documentation:
 
-- [PWA](- [Python](https://python.org)
+- [PWA](https://support.google.com/chrome/answer/9658361?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 - [Google Developers](https://developers.google.com)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
@@ -78,7 +78,7 @@ Follow the instructions shown in each README of each folder of the "front-end-pr
 
 ## :rocket: Technologies
 
-- [PWA](- [Python](https://python.org)
+- [PWA](https://support.google.com/chrome/answer/9658361?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 - [Google Developers](https://developers.google.com)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
