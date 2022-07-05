@@ -9,22 +9,22 @@
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/front-end-projects">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/expo">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/front-end-projects?color=yellow">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/expo">
   
   <a href="https://www.codacy.com/gh/jonypeixoto/full-stack-web2-projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jonypeixoto/full-stack-web2-projects&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/799ca46e878b4a40a8c52ac735f5a1fa">
   </a>
   
-  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/front-end-projects?color=green">
+  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/expo">
   <a href="https://github.com/jonypeixoto/full-stack-web2-projects/commits">
    
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/front-end-projects?color=blueviolet">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/expo">
   </a>
   
   <a href="https://github.com/jonypeixoto/full-stack-web2-projects/issues">
-    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/front-end-projects">
+    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/expo">
   </a>
   
   <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/full-stack-web2-projects"> 
@@ -45,7 +45,7 @@ This repository was created to put practical expo projects and web 2.0 projects 
 
 The purpose of this repository is to organize 1 category into which my practical studies in programming were separated. Such as:
 
-* <b><h3>Expo Projects(apps-projects >> expo)</h3></b>
+* <b><h3>Expo Projects(apps-projects >> Expo)</h3></b>
    * Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
 <br/>
@@ -59,7 +59,7 @@ Follow the instructions in each folder in each README and if necessary check the
 - [CSS](https://www.w3schools.com/cssref/)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [ReactJS](https://reactjs.org)
-- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
@@ -70,8 +70,8 @@ Follow the instructions in each folder in each README and if necessary check the
 
 ## :information_source: How To Use
 
-## Each folder of the "apps-projects" repository >> "expo" repository
-Follow the instructions shown in each README of each folder of the "apps-projects" repository >> "expo" repository.
+## Each folder of the "apps-projects" repository >> "Expo" repository
+Follow the instructions shown in each README of each folder of the "apps-projects" repository >> "Expo" repository.
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
@@ -83,7 +83,7 @@ Follow the instructions shown in each README of each folder of the "apps-project
 - [CSS](https://www.w3schools.com/cssref/)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [ReactJS](https://reactjs.org)
-- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
