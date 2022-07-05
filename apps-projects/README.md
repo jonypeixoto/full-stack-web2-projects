@@ -62,6 +62,13 @@ Follow the instructions in each folder in each README and if necessary check the
 - [Google Developers](https://developers.google.com)
 - [Apple Developers](https://developer.apple.com)
 - [PWA](https://support.google.com/chrome/answer/9658361?hl=pt-BR&co=GENIE.Platform%3DAndroid)
+- [Flutter](https://flutter.dev)
+- [React Native](https://reactnative.dev)
+- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Adobe Premiere](https://www.adobe.com/br/products/premiere.html)
+
 
 <br/>
 
@@ -83,6 +90,12 @@ This project was developed according to my research with the following technolog
 - [Google Developers](https://developers.google.com)
 - [Apple Developers](https://developer.apple.com)
 - [PWA](https://support.google.com/chrome/answer/9658361?hl=pt-BR&co=GENIE.Platform%3DAndroid)
+- [Flutter](https://flutter.dev)
+- [React Native](https://reactnative.dev)
+- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Adobe Premiere](https://www.adobe.com/br/products/premiere.html)
 
 <br/><br/>
 	
@@ -110,9 +123,3 @@ TikTok: [Jony Tech @jonypeixoto](https://jonypeixoto.com/tiktok)
 YouTube: [Jony Peixoto](https://jonypeixoto.com/youtube)
 
 Twitch: [Jony Peixoto](https://jonypeixoto.com/twitch)
-
-
-
-
-
-
