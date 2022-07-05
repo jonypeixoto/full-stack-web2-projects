@@ -45,8 +45,8 @@ This repository was created to put practical expo projects and web 2.0 projects 
 
 The purpose of this repository is to organize 1 category into which my practical studies in programming were separated. Such as:
 
-* <b><h3>Front End Web(front-end-projects)</h3></b>
-   * Focused on HTML, CSS, Sass, Less, VueJS, ReactJS, AngularJS, Database, Hosting, Database, SEO Analytics, MVC, Information Security.
+* <b><h3>Expo Projects(apps-projects >> expo)</h3></b>
+   * Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
 <br/>
 
@@ -54,21 +54,13 @@ The purpose of this repository is to organize 1 category into which my practical
 
 Follow the instructions in each folder in each README and if necessary check the official website for each documentation:
 
+- [Expo](https://expo.dev)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
-- [Python](https://python.org)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [ReactJS](https://reactjs.org)
-- [Next.js](https://nextjs.org)
-- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
-- [Gulp](https://gulpjs.com)
-- [Angular](https://angular.io)
-- [VueJS](https://vuejs.org)
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Typescript](https://www.typescriptlang.org)
-- [ElectronJS](https://www.electronjs.org)
-- [Sass](https://sass-lang.com/guide)
-- [Less](https://lesscss.org)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 - [Adobe Premiere](https://www.adobe.com/br/products/premiere.html)
@@ -86,21 +78,13 @@ Follow the instructions shown in each README of each folder of the "apps-project
 
 ## :rocket: Technologies
 
+- [Expo](https://expo.dev)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
-- [Python](https://python.org)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [ReactJS](https://reactjs.org)
-- [Next.js](https://nextjs.org)
-- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
-- [Gulp](https://gulpjs.com)
-- [Angular](https://angular.io)
-- [VueJS](https://vuejs.org)
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Typescript](https://www.typescriptlang.org)
-- [ElectronJS](https://www.electronjs.org)
-- [Sass](https://sass-lang.com/guide)
-- [Less](https://lesscss.org)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 - [Adobe Premiere](https://www.adobe.com/br/products/premiere.html)
