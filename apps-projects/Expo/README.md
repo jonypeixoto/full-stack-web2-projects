@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/front-end-projects-readme.png" />
+    <img alt="Expo GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/expo-projects-readme.png" />
     <br>
-    Front-End Projects
+    Expo Projects
 </h1>
 
 <h4 align="center">
-   Front-End Projects is a repository of projects involving web 2.0 and front-end that every programmer in the world should know:
+   Expo Projects is a repository of projects involving web 2.0 and expo that every programmer in the world should know:
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 <p align="center">
@@ -39,7 +39,7 @@
   <a href="#star2-author">Author</a>
 </p>
 
-This repository was created to put practical front-end and web 2.0 projects from the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus is on <b>advanced projects</b>.
+This repository was created to put practical expo projects and web 2.0 projects from the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus is on <b>advanced projects</b>.
 
 ##  :information_source: Repositories
 
@@ -78,8 +78,8 @@ Follow the instructions in each folder in each README and if necessary check the
 
 ## :information_source: How To Use
 
-## Each folder of the "front-end-projects" repository
-Follow the instructions shown in each README of each folder of the "front-end-projects" repository.
+## Each folder of the "apps-projects" repository >> "expo" repository
+Follow the instructions shown in each README of each folder of the "apps-projects" repository >> "expo" repository.
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
