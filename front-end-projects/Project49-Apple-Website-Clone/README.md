@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/front-end-projects-readme.png" />
     <br>
-    Front-End Projects
+    Apple website clone
 </h1>
 
 <h4 align="center">
@@ -31,11 +31,11 @@
 </p>
 
 <p align="center">
-  <a href="#information_source-repositories">Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-repositories">Preview</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#star2-author">Author</a>
 </p>
 
