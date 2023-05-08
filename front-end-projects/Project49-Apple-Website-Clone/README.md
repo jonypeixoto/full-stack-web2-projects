@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#information_source-repositories">Preview</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">Running The Project</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#star2-author">Author</a>
@@ -31,35 +31,25 @@ Follow the instructions in each folder in each README and if necessary check the
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
-- [Python](https://python.org)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
-- [ReactJS](https://reactjs.org)
-- [Next.js](https://nextjs.org)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
-- [Gulp](https://gulpjs.com)
-- [Angular](https://angular.io)
-- [VueJS](https://vuejs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Typescript](https://www.typescriptlang.org)
-- [ElectronJS](https://www.electronjs.org)
-- [Sass](https://sass-lang.com/guide)
-- [Less](https://lesscss.org)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
-- [Adobe Premiere](https://www.adobe.com/br/products/premiere.html)
-- [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
 
 <br/>
 
-## :information_source: How To Use
+  ## :information_source: Running The Project
 
-## Each folder of the "front-end-projects" repository
+## Here, you will find the step by step to run this project
 Follow the instructions shown in each README of each folder of the "front-end-projects" repository.
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
+
+You need to understand the mechanisms that trigger each tool below:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
@@ -104,8 +94,4 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
 ### LIVES:
 
-TikTok: [Jony Tech @jonypeixoto](https://jonypeixoto.com/tiktok)
-
-YouTube: [Jony Peixoto](https://jonypeixoto.com/youtube)
-
-Twitch: [Jony Peixoto](https://jonypeixoto.com/twitch)
+YouTube: [Jony Peixoto](https://www.youtube.com/@JonyPeixotoOriginal)
