@@ -40,7 +40,7 @@ Follow the instructions in each folder in each README and if necessary check the
   ## :information_source: Running The Project
 
 ## Here, you will find the step by step to run this project
-Follow the instructions shown in each README of each folder of the "front-end-projects" repository.
+In this project, just launch the "index.html" folder or launch it through your command prompt (according to your preference).
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
