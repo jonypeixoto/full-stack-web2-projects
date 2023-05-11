@@ -49,6 +49,8 @@ Follow the instructions in each folder in each README and if necessary check the
 ## Here, you will find the step by step to run this project
 In this project, just launch the "index.html" folder or launch it through your command prompt (according to your preference).
 <br/>
+### You can click "Demo on Netlify" to see my application live!
+<br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
@@ -58,23 +60,9 @@ You need to understand the mechanisms that trigger each tool below:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
-- [Python](https://python.org)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
-- [ReactJS](https://reactjs.org)
-- [Next.js](https://nextjs.org)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
-- [Gulp](https://gulpjs.com)
-- [Angular](https://angular.io)
-- [VueJS](https://vuejs.org)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Typescript](https://www.typescriptlang.org)
-- [ElectronJS](https://www.electronjs.org)
-- [Sass](https://sass-lang.com/guide)
-- [Less](https://lesscss.org)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
-- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
-- [Adobe Premiere](https://www.adobe.com/br/products/premiere.html)
-- [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
 
 <br/><br/>
 
