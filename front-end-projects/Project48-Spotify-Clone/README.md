@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-AppleClone.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-SpotifyClone.gif)
 
 <p align="center">
   <a href="https://applecloneoriginal.netlify.app" target="_blank">
