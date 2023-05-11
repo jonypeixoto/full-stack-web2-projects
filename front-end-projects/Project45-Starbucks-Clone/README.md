@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-StarbucksClone.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-StarbucksCloneOriginal.gif)
 
 <p align="center">
   <a href="https://starbuckscloneoriginal.netlify.app" target="_blank">
