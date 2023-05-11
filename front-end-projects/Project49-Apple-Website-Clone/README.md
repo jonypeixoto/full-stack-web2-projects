@@ -9,6 +9,10 @@
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 
+<br/> 
+
+<p>These dynamic seals (shields) concern the Full-Stack Web 2.0 repository, all projects work on any operating system that meets the technologies.</p>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/full-stack-web2-projects">
   
