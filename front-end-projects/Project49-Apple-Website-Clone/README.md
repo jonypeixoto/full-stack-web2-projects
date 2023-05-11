@@ -44,7 +44,7 @@ Follow the instructions in each folder in each README and if necessary check the
 
 <br/>
 
-  ## :information_source: Running The Project
+  ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project
 In this project, just launch the "index.html" folder or launch it through your command prompt (according to your preference).
