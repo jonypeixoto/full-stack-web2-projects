@@ -11,7 +11,7 @@
 
 <br/> 
 
-<p>These dynamic seals (shields) concern the Full-Stack Web 2.0 repository, all projects work on any operating system that meets the technologies.</p>
+<p>These dynamic seals (shields) concern the Full-Stack Web 2.0 repository, all projects work on any operating system that meets the technologies:</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/full-stack-web2-projects">
