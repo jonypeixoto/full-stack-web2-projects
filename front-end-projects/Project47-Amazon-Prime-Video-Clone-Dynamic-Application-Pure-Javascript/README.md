@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Gif-AmazonPrimeVideoClone.m4v)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-AmazonPrimeVideoClone.gif)
 
 <p align="center">
   <a href="https://amazonprimevideocloneoriginal.netlify.app" target="_blank">
