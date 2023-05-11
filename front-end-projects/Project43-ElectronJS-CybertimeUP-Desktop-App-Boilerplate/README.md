@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/templatesitebootstrap.gif" />
+    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/ElectronJS-Desktop-App.gif" />
     <br>
     ElectronJS CybertimeUP Desktop App
 </h1>
@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-electronjs-cybertimeup-desktop-app.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-ElectronJS-Desktop-App.gif)
 
 <p align="center">
   <a href="https://starbuckscloneoriginal.netlify.app" target="_blank">
