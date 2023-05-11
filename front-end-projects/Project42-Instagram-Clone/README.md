@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-instagramclone.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-InstagramClone.gif)
 
 <p align="center">
   <a href="https:/instagramcloneoriginal.netlify.app" target="_blank">
