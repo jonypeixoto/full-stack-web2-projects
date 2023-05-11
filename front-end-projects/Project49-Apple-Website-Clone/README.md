@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#information_source-repositories">Preview</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Running The Project</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#star2-author">Author</a>
