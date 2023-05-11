@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/front-end-projects-readme.png" />
+    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/apple.gif" />
     <br>
     Apple clone website
 </h1>
