@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/playstore-applestore-game.gif" />
+    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/playstore-apple-store-game.gif" />
     <br>
     Game Play and Apple Store website
 </h1>
@@ -49,7 +49,7 @@
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-playstore-applestore-game.gif)
 
 <p align="center">
-  <a href="https://netflixcloneoriginal.netlify.app" target="_blank">
+  <a href="https://playstoreapplestoregame.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
   </a>
 </p>
