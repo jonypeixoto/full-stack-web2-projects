@@ -64,7 +64,6 @@ Follow the instructions in each folder in each README and if necessary check the
 - [CSS](https://www.w3schools.com/cssref/)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
