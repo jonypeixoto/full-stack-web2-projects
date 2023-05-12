@@ -47,7 +47,6 @@
 ##  :information_source: Preview
 
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-Personal-Portfolio-Header.gif)
-
 <p align="center">
   <a href="https://personalportfolioheader.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
