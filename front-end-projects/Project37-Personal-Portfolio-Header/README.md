@@ -48,6 +48,12 @@
 
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-Personal-Portfolio-Header.gif)
 
+<p align="center">
+  <a href="https://personalportfolioheader.netlify.app" target="_blank">
+    <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
+  </a>
+</p>
+
 <br/>
 
 ## :warning: Prerequisites
@@ -66,6 +72,8 @@ Follow the instructions in each folder in each README and if necessary check the
   ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project:
+
+OBSERVATION: Do not forget to download XAMPP and press START on the Apache and MySQL servers.
 
 It’s only initiate the file: “index.html” and verify on browser this application.
 
