@@ -48,12 +48,6 @@
 
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-ElectronJS-Desktop-App.gif)
 
-<p align="center">
-  <a href="https://starbuckscloneoriginal.netlify.app" target="_blank">
-    <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
-  </a>
-</p>
-
 <br/>
 
 ## :warning: Prerequisites
@@ -63,6 +57,7 @@ Follow the instructions in each folder in each README and if necessary check the
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
 - [ElectronJS](https://www.electronjs.org/)
+- [NodeJS](https://nodejs.org/en/docs)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -74,7 +69,25 @@ Follow the instructions in each folder in each README and if necessary check the
   ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project
-In this project, just launch the "index.html" folder or launch it through your command prompt (according to your preference).
+In this project, follow the step by step below:
+
+<br/>
+Observation: If your desktop app installation folder is in another directory, use the command: "cd /d D:" without quotes.
+<br/>
+
+1) Open Command Prompt or CMD(Windows) - preferably as run as administrator
+2) Install [Electron Package Global](https://www.electronjs.org/docs/latest/tutorial/installation):
+
+npm install electron-packager -g
+
+3) Navigate through the directory - cd command to the folder of the application developed in ElectronJS
+
+cd (NAME THE FILE)
+
+4) Export the application from the following command and choose your operating system (Windows 32-bit or 64-bit or MacOS):
+
+electron-packager . "App CybertimeUP" --platform=win32 --arch=ia32
+
 <br/>
 ### You can click "Demo on Netlify" to see my application live!
 <br/>
@@ -88,6 +101,7 @@ You need to understand the mechanisms that trigger each tool below:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
 - [ElectronJS](https://www.electronjs.org/)
+- [NodeJS](https://nodejs.org/en/docs)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
