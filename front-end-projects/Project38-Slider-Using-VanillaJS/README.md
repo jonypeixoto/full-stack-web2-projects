@@ -69,7 +69,7 @@ Follow the instructions in each folder in each README and if necessary check the
 ## Here, you will find the step by step to run this project:
 <br/>
 
-Don't forget to download and start the [XAMPP](https://www.apachefriends.org/pt_br/index.html) server, in particular, start with START in Apache and MySQL.
+Don't forget to download and start the [XAMPP](https://www.apachefriends.org/pt_br/index.html) server, in particular, start with START in [Apache](https://www.apache.org/) and [MySQL](https://www.mysql.com/).
 
 </br>
 
@@ -107,7 +107,7 @@ Made with ? by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 <br/>
 
 <a href="https://www.jonypeixoto.com" target="_blank">
-  <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+  <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
 <br/>
