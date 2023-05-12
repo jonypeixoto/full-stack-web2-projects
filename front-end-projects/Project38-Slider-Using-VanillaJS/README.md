@@ -67,6 +67,11 @@ Follow the instructions in each folder in each README and if necessary check the
   ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project:
+<br/>
+
+Don't forget to download and start the [XAMPP](https://www.apachefriends.org/pt_br/index.html) server, in particular, start with START in Apache and MySQL.
+
+</br>
 
 It’s only initiate the file: “index.html” and verify on browser this application.
 
