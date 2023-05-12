@@ -56,6 +56,7 @@ Follow the instructions in each folder in each README and if necessary check the
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
+- [NodeJS](https://nodejs.org/en/docs)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
