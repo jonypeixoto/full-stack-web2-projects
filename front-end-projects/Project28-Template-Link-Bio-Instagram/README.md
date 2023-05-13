@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Template-Link-Bio-Instagram.gif" />
+    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/Template-Link-Bio-Instagram.gif" />
     <br>
     Template Link Bio Instagram
 </h1>
@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-Template-Link-Bio-Instagram.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/GIF-Template-Link-Bio-Instagram.gif)
 
 <p align="center">
   <a href="https://templatelinkbioinstagram.netlify.app" target="_blank">
