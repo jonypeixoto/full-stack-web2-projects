@@ -46,17 +46,10 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-WebAgencyWebsite-UPGRADEMASTER2VERSION1.gif)
-
-</br>
-
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-WebAgencyWebsite-UPGRADEMASTER2VERSION2.gif)
-
-<p align="center">
-	<p>Version 1</p>
-</P>
-
+### Version 1
 <br/>
+
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-WebAgencyWebsite-UPGRADEMASTER2VERSION1.gif)
 
 <p align="center">
   <a href="https://WebAgencyWebsiteMASTER2-VERSION1.netlify.app" target="_blank">
@@ -65,18 +58,23 @@
 </p>
 
 <br/>
+</br>
 
-<p align="center">
-	<p>Version 1</p>
-</P>
-
+### Version 2
 <br/>
+
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-WebAgencyWebsite-UPGRADEMASTER2VERSION2.gif)
 
 <p align="center">
   <a href="https://WebAgencyWebsiteMASTER2-VERSION2.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
   </a>
 </p>
+
+<br/>
+
+
+<br/>
 
 <br/>
 
