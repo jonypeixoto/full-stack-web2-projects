@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-siteusingmaterializeframework.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-siteusingmaterializeframe.gif)
 
 <p align="center">
   <a href="https://siteusingmaterializeframework.netlify.app" target="_blank">
