@@ -49,7 +49,7 @@
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-DASHBOARD-Part00-Screen-Class-Videos-Platform-User.gif)
 
 <p align="center">
-  <a href="https://DASHBOARDPart00-ScreenClassVideosPlatformUser.netlify.app" target="_blank">
+  <a href="https://dashboard-screenclassvideosplatform.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
   </a>
 </p>
