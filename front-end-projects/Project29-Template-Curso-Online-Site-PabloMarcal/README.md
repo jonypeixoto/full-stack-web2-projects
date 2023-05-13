@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Template-Curso-Online-Site-PabloMarcal.gif" />
     <br>
-    Template Curso Online Site PabloMarcal Clone
+    Template Curso Online Site Pablo Marçal Clone
 </h1>
 
 <h4 align="center">
