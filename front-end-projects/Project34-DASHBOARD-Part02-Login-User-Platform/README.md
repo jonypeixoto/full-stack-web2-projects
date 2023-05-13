@@ -49,7 +49,7 @@
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-dashboard-part02-login-user-platform.gif)
 
 <p align="center">
-  <a href="https://portifoliomasterwithanimations.netlify.app" target="_blank">
+  <a href="https://dashboardpart02-loginuserplatform.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
   </a>
 </p>
