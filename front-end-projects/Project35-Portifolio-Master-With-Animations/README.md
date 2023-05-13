@@ -1,11 +1,11 @@
 <h1 align="center">
     <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Portfolio-Master-With-Animations.gif" />
     <br>
-    Portifolio Master With Animations
+    Portfolio Master With Animations
 </h1>
 
 <h4 align="center">
-    Portifolio Master With Animations is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
+    Portfolio Master With Animations is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 
