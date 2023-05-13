@@ -75,10 +75,6 @@ It’s only initiate the file: “index.html” and verify on browser this appli
 
 <br/>
 
-It’s only initiate the file: “index.html” and verify on browser this application.
-
-<br/>
-
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
