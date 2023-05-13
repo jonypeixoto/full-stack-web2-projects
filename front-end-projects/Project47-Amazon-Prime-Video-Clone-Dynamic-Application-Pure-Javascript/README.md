@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/AmazonPrimeVideo.gif" />
     <br>
-    Amazon Prime Video clone website
+    Amazon Prime Video clone website - ENGLISH VERSION
 </h1>
 
 <h4 align="center">
