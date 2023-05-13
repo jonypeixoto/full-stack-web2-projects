@@ -48,7 +48,7 @@
 
 <br/>
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-stepbystep-nodejs.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-stepbystep-nodejs2.gif)
 
 <br/>
 
@@ -72,6 +72,8 @@ Follow the instructions in each folder in each README and if necessary check the
 ## Here, you will find the step by step to run this project:
 
 OBSERVATION: Download and install [NodeJS](https://nodejs.org) and start the project using prompt command(run as administrator) with NodeJS from the file: "app.js" - without quotes
+
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-stepbystep-nodejs.gif)
 
 <br/>
 
