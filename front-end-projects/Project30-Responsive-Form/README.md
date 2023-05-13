@@ -69,8 +69,6 @@ Follow the instructions in each folder in each README and if necessary check the
 
 OBSERVATION: Do not forget to download [XAMPP](https://www.apachefriends.org/pt_br/index.html) e install it and press START on the [Apache](https://www.apache.org/) and [MySQL](https://www.mysql.com/) servers.
 
-It’s only initiate the file: “index.html” and verify on browser this application.
-
 <br/>
 
 It’s only initiate the file: “index.html” and verify on browser this application.
