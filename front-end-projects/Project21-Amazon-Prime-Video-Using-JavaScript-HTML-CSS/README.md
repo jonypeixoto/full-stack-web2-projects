@@ -75,6 +75,10 @@ Follow the instructions in each folder in each README and if necessary check the
 ## Here, you will find the step by step to run this project
 In this project, just launch the "index.html" folder or launch it through your command prompt (according to your preference).
 <br/>
+
+OBSERVATION: Do not forget to download [XAMPP](https://www.apachefriends.org/pt_br/index.html) e install it and press START on the [Apache](https://www.apache.org/) and [MySQL](https://www.mysql.com/) servers.
+
+<br/>
 ### You can click "Demo on Netlify" to see my application live!
 <br/>
 
