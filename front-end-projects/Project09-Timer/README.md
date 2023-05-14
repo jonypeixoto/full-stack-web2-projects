@@ -49,7 +49,7 @@
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-timeroriginal.gif)
 
 <p align="center">
-  <a href="https://minivirtualstore.netlify.app" target="_blank">
+  <a href="https://timeroriginal.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/demo-on-netlify.png">
   </a>
 </p>
