@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-basicloginfacebook.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-basicfacebooklogin.gif)
 
 <p align="center">
   <a href="https://basicfacebooklogin.netlify.app" target="_blank">
