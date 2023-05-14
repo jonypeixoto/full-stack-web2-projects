@@ -46,7 +46,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-basicdashboardbootstrap.gif)
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-dashboardbootstraporiginal.gif)
 
 <p align="center">
   <a href="https://testingbackgroundbootstrap.netlify.app" target="_blank">
