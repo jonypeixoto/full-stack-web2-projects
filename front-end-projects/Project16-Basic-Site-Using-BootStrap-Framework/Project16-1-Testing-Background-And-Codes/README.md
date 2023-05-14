@@ -73,7 +73,7 @@ Follow the instructions in each folder in each README and if necessary check the
   ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project
-In this project, just launch the "index.html" folder or launch it through your command prompt (according to your preference).
+In this project, just launch the "index.html" folder or change "index.php" per "index.html" or launch it through your command prompt (according to your preference).
 <br/>
 
 OBSERVATION: Do not forget to download [XAMPP](https://www.apachefriends.org/pt_br/index.html) e install it and press START on the [Apache](https://www.apache.org/) and [MySQL](https://www.mysql.com/) servers.
