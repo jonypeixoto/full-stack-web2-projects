@@ -74,9 +74,6 @@ OBSERVATION: Do not forget to download [XAMPP](https://www.apachefriends.org/pt_
 
 <br/>
 
-### You can click "Demo on Netlify" to see my application live!
-<br/>
-
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
