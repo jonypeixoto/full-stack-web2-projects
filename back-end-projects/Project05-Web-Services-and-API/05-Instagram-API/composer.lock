@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9275b6e3957ea9f4000cc52acc996671",
+    "packages": [
+        {
+            "name": "cosenary/instagram",
+            "version": "v2.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cosenary/Instagram-PHP-API.git",
+                "reference": "fbf4c82e2cc7e9a7fd6f9fd7bba1fd2c506102a5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cosenary/Instagram-PHP-API/zipball/fbf4c82e2cc7e9a7fd6f9fd7bba1fd2c506102a5",
+                "reference": "fbf4c82e2cc7e9a7fd6f9fd7bba1fd2c506102a5",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MetzWeb\\Instagram\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD"
+            ],
+            "authors": [
+                {
+                    "name": "Christian Metz",
+                    "email": "christian-metz1@gmx.net",
+                    "homepage": "http://metzweb.net"
+                }
+            ],
+            "description": "An easy-to-use PHP Class for accessing Instagram's API.",
+            "homepage": "https://github.com/cosenary/Instagram-PHP-API",
+            "keywords": [
+                "api",
+                "instagram"
+            ],
+            "support": {
+                "issues": "https://github.com/cosenary/Instagram-PHP-API/issues",
+                "source": "https://github.com/cosenary/Instagram-PHP-API/tree/master"
+            },
+            "time": "2014-11-29T13:10:42+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
