@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/instragramapi.gif" />
+    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/instagramapi.gif" />
     <br>
     Web Services and API: Instagram API
 </h1>
