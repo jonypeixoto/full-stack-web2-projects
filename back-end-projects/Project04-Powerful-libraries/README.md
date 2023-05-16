@@ -50,14 +50,11 @@
 
 You need to understand the mechanisms that trigger each tool below:
 
-- [Django](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://www.w3schools.com/cssref/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [PHP](https://www.php.net/docs.php)
-- [Composer](https://getcomposer.org/)
-- [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
-- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
-- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Django](https://www.djangoproject.com/)
+- [AppMaster](https://appmaster.io/pt)
+- [Express.js](https://expressjs.com/)
+- [Laravel](https://laravel.com/)
+- [CakePHP](https://cakephp.org/)
 
 <br/><br/>
 
