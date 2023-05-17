@@ -88,10 +88,6 @@ expo start
 
 <br/>
 
-OBSERVATION: Do not forget to download [XAMPP](https://www.apachefriends.org/pt_br/index.html) e install it and press START on the [Apache](https://www.apache.org/) and [MySQL](https://www.mysql.com/) servers.
-
-<br/>
-
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
