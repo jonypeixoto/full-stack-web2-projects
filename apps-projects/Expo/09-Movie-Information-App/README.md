@@ -59,7 +59,7 @@ Follow the instructions in each folder in each README and if necessary check the
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [NodeJS](https://nodejs.org/en)
 - [Expo](https://expo.dev/)
-- [Firebase](https://firebase.google.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
@@ -84,7 +84,7 @@ expo start
 
 <br/>
 
-3- 
+3- Don't forget to install Expo and/or NodeJS, as well as the app emulator and your preferred code editor.
 
 <br/>
 
@@ -103,7 +103,7 @@ You need to understand the mechanisms that trigger each tool below:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [NodeJS](https://nodejs.org/en)
 - [Expo](https://expo.dev/)
-- [Firebase](https://firebase.google.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
