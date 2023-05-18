@@ -99,6 +99,8 @@ OBSERVATIONS:
 
 Set-Location D: (according your directory)
 
+3- Install the extensions DART, Flutter on VS(Visual Studio) Code to avoid errors.
+
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
