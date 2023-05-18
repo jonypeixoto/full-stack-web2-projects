@@ -74,23 +74,21 @@ In this project, follow the commands on prompt command:
 
 <br/>
 
-1- Go to the application folder ou initiate the PowerShell
+Start the PWA:
+
+- Open the "web-build" folder in VS Code and start LIVE Server and open the file "index.html" (the print screen shown here in README.md will appear)
+
+## OBSERVATIONS ABOUT PWA:
+
+[Create your PWA](https://www.pwabuilder.com/)
+</br>
+[Test your PWA](https://www.dunplab.it/pwa-tester-online)
+</br>
+[More testing options](https://www.seoreviewtools.com/pwa-testing-tool/)
 
 <br/>
 
-2- Enter the first command(check if the Flutter is installed correctly) or you can use VS Code for initiate the Flutter:
-
-flutter doctor
-
-In second moment, use the command:
-
-flutter run
-
-Finnaly, choose the browser and Go!
-
-<br/>
-
-3- Don't forget to install [Flutter](https://flutter.dev/) and [Android Studio](https://developer.android.com/studio), as well as the app emulator and your preferred code editor(I prefer Visual Studio Code).
+3- Don't forget to download and install [NODEJS](https://nodejs.org/en), [Flutter](https://flutter.dev/) and [Android Studio](https://developer.android.com/studio), as well as the app emulator and your preferred code editor(I prefer Visual Studio Code).   
 
 OBSERVATIONS:
 
