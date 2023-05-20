@@ -102,7 +102,7 @@ Follow the instructions in each folder in each README and if necessary check the
 
 ## :information_source: How To Use
 
-## Each folder of the "front-end-projects" repository
+## Each folder of the "full-stack-web2-projects" repository
 Follow the instructions shown in each README of each folder of the "front-end-projects" repository.
 <br/>
 
