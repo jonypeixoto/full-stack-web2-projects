@@ -62,10 +62,6 @@ Follow the instructions in each folder in each README and if necessary check the
 
 ## Here, you will find the step by step to run this project
 
-<br/>
-
-1) Download and install [MATLAB](https://nodejs.org/en) and NPM(package manager for Node.JS npm)
-
 </br>
 
 Insert this code below on MATLAB:
