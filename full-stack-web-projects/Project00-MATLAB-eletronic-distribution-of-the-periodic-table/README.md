@@ -61,11 +61,6 @@ Follow the instructions in each folder in each README and if necessary check the
 ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project
-In this project, follow the commands on prompt command:
-
-<br/>
-
-1- Go to the application folder ou initiate the PowerShell
 
 <br/>
 
