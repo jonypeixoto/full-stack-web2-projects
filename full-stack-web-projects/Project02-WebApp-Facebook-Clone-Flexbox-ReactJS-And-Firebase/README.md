@@ -1,70 +1,127 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/facebook-clone.gif" />
+    <br>
+    Facebook Clone
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">
+ Facebook Clone is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
+   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
+</h4>
 
-## Available Scripts
+<br/> 
 
-In the project directory, you can run:
+<p>These dynamic seals (shields) concern the Full-Stack Web 2.0 repository, all projects work on any operating system that meets the technologies:</p>
 
-### `npm start`
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/back-end-projects">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/back-end-projects">
+  
+  <a href="https://www.codacy.com/gh/jonypeixoto/full-stack-web2-projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jonypeixoto/full-stack-web2-projects&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/799ca46e878b4a40a8c52ac735f5a1fa">
+  </a>
+  
+  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/back-end-projects">
+  <a href="https://github.com/jonypeixoto/full-stack-web2-projects/commits">
+   
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/back-end-projects">
+  </a>
+  
+  <a href="https://github.com/jonypeixoto/full-stack-web2-projects/issues">
+    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/back-end-projects">
+  </a>
+  
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/full-stack-web2-projects"> 
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#information_source-repositories">Preview</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#star2-author">Author</a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+##  :information_source: Preview
 
-### `npm test`
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-facebook-clone.gif)<br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br/>
 
-### `npm run build`
+## :warning: Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow the instructions in each folder in each README and if necessary check the official website for each documentation:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You should know about these technologies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br/>
 
-### `npm run eject`
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/cssref/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Firebase](https://firebase.google.com)
+- [ReactJS](https://react.dev/)
+- [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<br/>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :information_source: How to Use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Here, you will find the step by step to run this project
+In this project, follow the commands on prompt command: 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<br/>
 
-## Learn More
+1- Install Firebase, NodeJS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2- Access the file "App.js" folder which contains the access URL to test the App. You can also host on your Firebase and change the default settings of the "firebase.js" file.
 
-### Code Splitting
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
-### Analyzing the Bundle Size
+## :rocket: Technologies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+You need to understand the mechanisms that trigger each tool below:
 
-### Making a Progressive Web App
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/cssref/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Firebase](https://firebase.google.com)
+- [ReactJS](https://react.dev/)
+- [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br/><br/>
 
-### Advanced Configuration
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/full-stack-web2-projects/blob/main/LICENSE) for more information.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br/><br/>
 
-### Deployment
+## :star2: Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<img alt="Jony Peixoto" title="Jony Peixoto" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Jony-Peixoto-Projects.jpg" height="100" width="100" />
 
-### `npm run build` fails to minify
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br/>
+
+<a href="https://www.jonypeixoto.com" target="_blank">
+  <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+</a>
+
+<br/>
+
+### LIVES:
+
+YouTube: [Jony Peixoto](https://www.youtube.com/@JonyPeixotoOriginal)
