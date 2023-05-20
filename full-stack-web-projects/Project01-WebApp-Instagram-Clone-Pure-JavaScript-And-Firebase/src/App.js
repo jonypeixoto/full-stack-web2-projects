@@ -53,3 +53,5 @@ function App() {
 }
 
 export default App;
+
+// You cant the App here: https://instagram-clone-br2021.web.app/ OR https://instagram-clone-br2021.firebaseapp.com/
