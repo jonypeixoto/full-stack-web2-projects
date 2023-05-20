@@ -60,6 +60,7 @@ You should know about these technologies:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
+- [NodeJS](https://nodejs.org/en)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Firebase](https://firebase.google.com)
 - [ReactJS](https://react.dev/)
@@ -93,6 +94,7 @@ You need to understand the mechanisms that trigger each tool below:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
+- [NodeJS](https://nodejs.org/en)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Firebase](https://firebase.google.com)
 - [ReactJS](https://react.dev/)
