@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Front-End GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/frontend-siteplanssignatures.gif" />
     <br>
-    FRONT-END - Site Plans Signatures
+    FRONT-END: Site Plans Signatures
 </h1>
 
 <h4 align="center">
