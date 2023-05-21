@@ -80,7 +80,7 @@ In this project, follow the commands on prompt command:
 
 <br/>
 
-1- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
+1- Download and install the local server [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 
 <br/>
 
