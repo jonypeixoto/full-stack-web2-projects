@@ -95,7 +95,7 @@ https://localhost/phpmyadmin
 
 <br/>
 
-3- Go to your BACKUP.PHP project and enjoy!
+3- Go to your INDEX.PHP project and enjoy!
 
 <br/>
 
