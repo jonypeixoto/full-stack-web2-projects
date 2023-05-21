@@ -77,11 +77,13 @@ In this project, follow the commands on prompt command:
 
 <br/>
 
-1- Install Firebase, NodeJS
+1- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
 
-<br/>
+2- Open your local server at:
 
-2- Access the file "App.js" folder which contains the access URL to test the App. You can also host on your Firebase and change the default settings of the "firebase.js" file.
+https://localhost
+
+3- Go to your INDEX.PHP project and enjoy!
 
 <br/>
 
