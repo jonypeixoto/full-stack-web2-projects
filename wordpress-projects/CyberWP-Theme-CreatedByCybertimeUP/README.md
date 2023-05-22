@@ -47,7 +47,7 @@ CyberWP - CybertimeUP's Theme is a repository of the project involving web 2.0 a
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-cyberwp-cybertimeup.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/cyberwp-cybertimeup.jpg)<br/>
 
 <br/>
 
