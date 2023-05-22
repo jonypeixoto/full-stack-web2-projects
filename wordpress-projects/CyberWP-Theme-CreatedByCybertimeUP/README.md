@@ -79,23 +79,7 @@ In this project, follow the commands on prompt command:
 
 <br/>
 
-1- Download and install the local server [XAMPP](https://www.apachefriends.org/pt_br/index.html)
-
-<br/>
-
-2- Open your local server at:
-
-https://localhost
-
-and for the database, you can create a table list on PHPMyAdmin using ID, Name, Date, Hour
-
-<br/>
-
-https://localhost/phpmyadmin
-
-<br/>
-
-3- Go to your INDEX.PHP project and enjoy!
+Import the CyberWP theme in your WordPress themes tab and that's it!
 
 <br/>
 
