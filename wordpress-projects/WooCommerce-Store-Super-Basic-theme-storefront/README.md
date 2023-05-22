@@ -52,7 +52,7 @@ WooCommerce Store is a repository of the project involving web 2.0 and front-end
 <br/>
 <br/>
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-woocommercestore2.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-woocommercestore2.png)<br/>
 
 
 <br/>
