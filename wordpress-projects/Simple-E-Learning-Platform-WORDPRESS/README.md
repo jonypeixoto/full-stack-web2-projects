@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleselearning.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleelearning.gif" />
     <br>
     Simple E-Learning Platform(WORDPRESS)
 </h1>
@@ -47,11 +47,11 @@ Simple E-Learning Platform(WORDPRESS) is a repository of the project involving w
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleselearning.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleelearning.gif)<br/>
 
 <br/>
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleselearning2.png)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleSelearning2.png)<br/>
 
 <br/>
 
