@@ -51,7 +51,7 @@ Simples E-Learning Platform(WORDPRESS) is a repository of the project involving 
 
 <br/>
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleselearning2.png)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleselearning2.png)<br/>
 
 <br/>
 
