@@ -113,30 +113,43 @@ In this project, follow the commands on prompt command:
 2- Configuring the members area
 
 <br/>
+
      2.1- Importing and creating the front page of the showcase
 <br/>
+
      2.2- Editing the FIRST section of the showcase
 <br/>
+
      2.3- Editing the SECOND section of the showcase
 <br/>
+
      2.4- Editing the THIRD section of the showcase PART 01
 <br/>
+
      2.5- Editing the THIRD section of the showcase PART 02
 <br/>
+
      2.6- Editing the THIRD section of the showcase PART 03
 <br/>
+
      2.7- Video lessons section
 <br/>
+
      2.8- Creating page Privacy policy and term of use
 <br/>
+
      2.9- Changing and customizing the footer
 <br/>
+
      2.10- Creating image and optimizing for showcase
 <br/>
+
      2.11- Mobile version showcase
 <br/>
+
      2.12- Creating a Thank You Page
 <br/>
+
      2.13- Creating login and password
 
 <br/>
@@ -144,24 +157,34 @@ In this project, follow the commands on prompt command:
 3- Selling with Mercado Pago
 
 <br/>
+
      3.1- Understand the module
 <br/>
+
      3.2- Knowing Yampi
 <br/>
+
      3.3- Integrating with Mercado Pago
 <br/>
+
      3.4- Registering product
 <br/>
+
      3.5- Registering product
 <br/>
+
      3.6- How to register Upsell at checkout
 <br/>
+
      3.7- How to give a discount at checkout
 <br/>
+
      3.8- Configuring pixel
 <br/>
+
      3.9- Simulating sales
 <br/>
+
      3.10- Sending product
 
 <br/>
@@ -239,8 +262,13 @@ Module 06: https://experiencemedia.io/plataforma/modulo-06
 <br/>
 https://github.com/jonypeixoto/full-stack-web2-projects/tree/main/wordpress-projects/E-Learning-Platform-PRO-WORDPRESS
 <br/>
+<br/>
+<br/>
+https://jonypeixoto.com.br
 
-![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
+<br/>
+<br/>
+![App Screenshot](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
 
