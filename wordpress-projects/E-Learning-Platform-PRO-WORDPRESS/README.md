@@ -47,11 +47,7 @@ E-Learning Platform PRO(WORDPRESS) is a repository of the project involving web 
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleelearning.gif)<br/>
-
-<br/>
-
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleeelearning2.png)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-elearningpro.gif)<br/>
 
 <br/>
 
