@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/elearningpro.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleelearning.gif" />
     <br>
     E-Learning Platform PRO(WORDPRESS)
 </h1>
@@ -47,7 +47,9 @@ E-Learning Platform PRO(WORDPRESS) is a repository of the project involving web 
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-elearningpro.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleelearning.gif)<br/>
+
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleselearning2.gif)<br/>
 
 <br/>
 
