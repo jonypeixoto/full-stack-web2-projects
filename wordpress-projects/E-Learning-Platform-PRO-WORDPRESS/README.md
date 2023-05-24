@@ -264,7 +264,7 @@ https://jonypeixoto.com.br
 
 <br/>
 <br/>
-![App Screenshot](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
+![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
 
