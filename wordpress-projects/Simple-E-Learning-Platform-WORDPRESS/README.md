@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleelearning.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/elearningpro.gif" />
     <br>
-    Simple E-Learning Platform(WORDPRESS)
+    E-Learning Platform PRO(WORDPRESS)
 </h1>
 
 <h4 align="center">
-Simple E-Learning Platform(WORDPRESS) is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
+E-Learning Platform PRO(WORDPRESS) is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 
@@ -47,11 +47,7 @@ Simple E-Learning Platform(WORDPRESS) is a repository of the project involving w
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleelearning.gif)<br/>
-
-<br/>
-
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleeelearning2.png)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-elearningpro.gif)<br/>
 
 <br/>
 
@@ -82,14 +78,192 @@ In this project, follow the commands on prompt command:
 
 <br/>
 
-1- Download and install the [WordPress](https://wordpress.org/)
+1- Setting up the base
+
+     1.1- Buying hosting + domain for your website
+
+     1.2- Checking CPANEL
+
+     1.3- Installing SSL
+
+     1.4- Creating professional email
+
+     1.5- Downloading and installing [WordPress](https://wordpress.org/) in CPanel
+
+     1.6- Installing ELEMENTOR plugin
+
+     1.7- Extra class 01- Leaving YOUR MAIN SITE without the /
+
+     1.8- Extra class 02- Domains on the same hosting
+
+     1.9- Extra class 03- How to install PIXEL Facebook(Goal)
+
+          - Insert at the top of the page, landing page
+
+     1.10- Extra class 04- Content protection plugin
+
+          - Plugin: Disable Right Click For WP
 
 <br/>
 
-2- Access the wordpress panel, download the StoreFront theme and configure your virtual store your way!
+2- Configuring the members area
 
 <br/>
 
+     2.1- Importing and creating the front page of the showcase
+<br/>
+
+     2.2- Editing the FIRST section of the showcase
+<br/>
+
+     2.3- Editing the SECOND section of the showcase
+<br/>
+
+     2.4- Editing the THIRD section of the showcase PART 01
+<br/>
+
+     2.5- Editing the THIRD section of the showcase PART 02
+<br/>
+
+     2.6- Editing the THIRD section of the showcase PART 03
+<br/>
+
+     2.7- Video lessons section
+<br/>
+
+     2.8- Creating page Privacy policy and term of use
+<br/>
+
+     2.9- Changing and customizing the footer
+<br/>
+
+     2.10- Creating image and optimizing for showcase
+<br/>
+
+     2.11- Mobile version showcase
+<br/>
+
+     2.12- Creating a Thank You Page
+<br/>
+
+     2.13- Creating login and password
+
+<br/>
+
+3- Selling with Mercado Pago
+
+<br/>
+
+     3.1- Understand the module
+<br/>
+
+     3.2- Knowing Yampi
+<br/>
+
+     3.3- Integrating with Mercado Pago
+<br/>
+
+     3.4- Registering product
+<br/>
+
+     3.5- Registering product
+<br/>
+
+     3.6- How to register Upsell at checkout
+<br/>
+
+     3.7- How to give a discount at checkout
+<br/>
+
+     3.8- Configuring pixel
+<br/>
+
+     3.9- Simulating sales
+<br/>
+
+     3.10- Sending product
+
+<br/>
+
+EXTRA MODULE: WORDPRESS TEMPLATES:
+
+<br/>
+
+- Files to download and insert into your WordPress
+<br/>
+
+- https://drive.google.com/drive/folders/1mwhJvrY83ok-i7rqLn3407gZTMpBISKp?usp=share_link
+
+<br/>
+
+Contains 7 files in JSON format to insert in WordPress:
+
+<br/>
+
+     1) HOME Page * VitrineAlunos-HomeMembersFlix.json
+  <br/>
+
+https://experiencemedia.io/plataforma
+
+<br/>
+
+     2) THANK YOU page * thank you page.json
+<br/>
+
+https://experiencemedia.io/plataforma/pagina-de-obrigado
+<br/>
+
+     3) BONUS page * ModuloBonus.json
+<br/>
+
+https://experiencemedia.io/plataforma/arquivos-aulas
+<br/>
+
+     4) PRIVACY POLICY page * Politica.json
+<br/>
+
+https://experiencemedia.io/plataforma/privacy-policies
+<br/>
+
+     5) Page TERMS OF USE * thermodeuso.json
+<br/>
+
+https://experiencemedia.io/plataforma/terms-de-uso
+<br/>
+
+     6) LOGIN page - MEMBER AREA * login.json
+<br/>
+
+https://experiencemedia.io/plataforma/acesso
+<br/>
+
+     7) VÍDEO-Aulas page - MEMBERS AREA * Modulo-VideoAulas.json
+<br/>
+Module 01: https://experiencemedia.io/plataforma/modulo-01
+<br/>
+Module 02: https://experiencemedia.io/plataforma/modulo-02
+<br/>
+Module 03: https://experiencemedia.io/plataforma/modulo-03
+<br/>
+Module 04: https://experiencemedia.io/plataforma/modulo-04
+<br/>
+Module 05: https://experiencemedia.io/plataforma/modulo-05
+<br/>
+Module 06: https://experiencemedia.io/plataforma/modulo-06
+
+<br/>
+<br/>
+
+     Learn more about the PROFESSIONAL - E-Learning PRO project on GitHub:
+<br/>
+https://github.com/jonypeixoto/full-stack-web2-projects/tree/main/wordpress-projects/E-Learning-Platform-PRO-WORDPRESS
+<br/>
+<br/>
+<br/>
+https://jonypeixoto.com.br
+
+<br/>
+<br/>
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
