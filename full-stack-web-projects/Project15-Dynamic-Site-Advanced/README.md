@@ -128,6 +128,7 @@ Hosting (along with the server) must have already been purchased to follow this 
 <br/>
 The steps below are for [Project15-4-Dynamic-Site-advanced-and-control-panel-advancedPHP-and-news-portal-and-management](https://github.com/jonypeixoto/full-stack-web2-projects/tree/main/full-stack-web-projects/Project15-4-Dynamic-Site-Advanced-and-Control-Panel-AdvancedPHP-and-News-Portal-and-Management)
 <br/>
+<br/>
 However, before uploading the application (in this specific case, go to the "config.php" files). Then fill in the DOMAIN, HOST NAME, USER ACCESS, PASSWORD AND DATABASE NAME.
 <br/>
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/serverconfiguration2.png)
@@ -156,8 +157,11 @@ SOLUTION 2:
 Or also change the following code in "login.php":
 <br/>
 Insert the start and end functions according to the print below:
+
 <br/>
-![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/serverconfiguration3.png)
+<br/>
+
+![](https://github.com/jonypeixoto/jonypeixoto/blob/01f25c94fd6b6c505b6ca94cd498e3f7e040dff3/assets/serverconfiguration3.png)
 
 <br/>
 <br/>
