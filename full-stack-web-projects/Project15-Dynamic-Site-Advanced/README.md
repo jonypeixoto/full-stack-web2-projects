@@ -64,7 +64,7 @@ You should know about these technologies:
 - [CSS3](https://www.w3schools.com/css/)
 - [PHP](https://www.php.net/docs.php)
 - [PHPMyAdmin](https://phpmyadmin.net)
-- [Xampp](https://www.apachefriends.org/index.html))
+- [Xampp](https://www.apachefriends.org/index.html)
 - [WordPress](https://www.wordpress.org)
 - [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
