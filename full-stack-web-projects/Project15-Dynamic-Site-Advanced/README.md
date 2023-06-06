@@ -146,6 +146,8 @@ for
 <br/>
 Panel::redirect(INCLUDE_PATH_PANEL);
 <br/>
+<br/>
+<br/>
 SOLUTION 2:
 <br/>
 Or also change the following code in "login.php":
