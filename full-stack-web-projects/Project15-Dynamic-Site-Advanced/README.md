@@ -131,6 +131,7 @@ The steps below are for [Project15-4-Dynamic-Site-advanced-and-control-panel-adv
 <br/>
 However, before uploading the application (in this specific case, go to the "config.php" files). Then fill in the DOMAIN, HOST NAME, USER ACCESS, PASSWORD AND DATABASE NAME.
 <br/>
+<br/>
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/serverconfiguration2.png)
 
 <br/>
