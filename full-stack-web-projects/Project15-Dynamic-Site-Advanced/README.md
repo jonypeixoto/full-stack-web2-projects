@@ -146,7 +146,9 @@ for
 <br/>
 Panel::redirect(INCLUDE_PATH_PANEL);
 <br/>
-And also change the following code in "login.php":
+SOLUTION 2:
+<br/>
+Or also change the following code in "login.php":
 <br/>
 Insert the start and end functions according to the print below:
 <br/>
