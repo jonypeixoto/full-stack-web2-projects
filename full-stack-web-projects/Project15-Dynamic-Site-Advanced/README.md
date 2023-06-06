@@ -111,8 +111,11 @@ You can test HostGator's SMTP service (I already used it to test this web applic
 Hosting (along with the server) must have already been purchased to follow this step:
 
 <br/>
-![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/serverconfiguration.png)
+<br/>
 
+![](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/serverconfiguration.png)
+
+<br/>
 <br/>
 
 4.1- Go to the HOME of your CPanel, then in MySQL Databases, choose a name for your database and click on "Create Database".
