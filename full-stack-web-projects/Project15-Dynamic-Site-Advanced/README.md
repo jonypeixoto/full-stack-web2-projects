@@ -153,6 +153,10 @@ Panel::redirect(INCLUDE_PATH_PANEL);
 <br/>
 <br/>
 <br/>
+![](https://github.com/jonypeixoto/jonypeixoto/blob/01f25c94fd6b6c505b6ca94cd498e3f7e040dff3/assets/serverconfiguration4.png)
+<br/>
+<br/>
+<br/>
 SOLUTION 2:
 <br/>
 Or also change the following code in "login.php":
