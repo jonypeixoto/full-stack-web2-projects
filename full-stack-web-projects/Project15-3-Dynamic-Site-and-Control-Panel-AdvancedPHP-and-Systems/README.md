@@ -1,11 +1,11 @@
 <h1 align="center">
     <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/dynamicsite-advanced.gif" />
     <br>
-    Dynamic Site - Advanced and Control Panel Interface and PHP
+    Dynamic Site - Advanced, Control Panel PHP Advanced and Systems
 </h1>
 
 <h4 align="center">
-Dynamic Site - Advanced and Control Panel Interface and PHP is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
+Dynamic Site - Advanced, Control Panel PHP Advanced and Systems is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 
