@@ -47,7 +47,7 @@ Dynamic Site - Advanced and Control Panel Interface and PHP is a repository of t
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-dynamicsite-advanced.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-dynamicsite-and-controlpanel-interfaceandphp.gif)<br/>
 
 <br/>
 
