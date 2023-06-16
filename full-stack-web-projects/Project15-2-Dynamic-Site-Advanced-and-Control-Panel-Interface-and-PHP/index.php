@@ -5,7 +5,7 @@
 	<title>Project Dynamic Site Advanced</title>
 	<link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>style/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
-	<link href="<?php echo INCLUDE_PATH; ?>css/style.css" rel="stylesheet" />
+	<link href="<?php echo INCLUDE_PATH; ?>style/style.css" rel="stylesheet" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="keywords" content="keywords,of,my,website">
 	<meta name="description" content="Description of my website">
