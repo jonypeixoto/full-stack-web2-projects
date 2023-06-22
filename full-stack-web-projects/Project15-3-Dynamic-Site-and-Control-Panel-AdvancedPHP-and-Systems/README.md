@@ -76,6 +76,11 @@ You should know about these technologies:
 ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project
+
+</br><br/><br/>
+** Attention ** It is necessary to create your database in the hosting and then import it to your hosting as the following tutorial shows: [on HostGator, a server that I use](https://suporte.hostgator.com.br/hc/pt-br/articles/115000385293-Como-criar-um-banco-de-dados-no-cPanel-)
+<br/><br/></br>
+
 In this project, follow the commands on prompt command: 
 
 <br/>
