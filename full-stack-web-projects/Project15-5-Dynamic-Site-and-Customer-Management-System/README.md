@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleelearning.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/customermanagementsystem.gif" />
     <br>
-    Simple E-Learning Platform(WORDPRESS)
+    Custom Management System
 </h1>
 
 <h4 align="center">
-Simple E-Learning Platform(WORDPRESS) is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
+Custom Management System is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
    <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
 </h4>
 
@@ -47,7 +47,7 @@ Simple E-Learning Platform(WORDPRESS) is a repository of the project involving w
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-simpleelearning.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-custommanagementsystem.gif)<br/>
 
 <br/>
 
