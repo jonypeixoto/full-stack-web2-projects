@@ -49,12 +49,6 @@ Custom Management System is a repository of the project involving web 2.0 and fr
 
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-custommanagementsystem.gif)<br/>
 
-<br/>
-
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/simpleeelearning2.png)<br/>
-
-<br/>
-
 ## :warning: Prerequisites
 
 Follow the instructions in each folder in each README and if necessary check the official website for each documentation:
