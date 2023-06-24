@@ -72,168 +72,106 @@ You should know about these technologies:
 ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project
+</br><br/><br/>
+** Attention ** It is necessary to create your database in the hosting and then import it to your hosting as the following tutorial shows: [on HostGator, a server that I use](https://suporte.hostgator.com.br/hc/pt-br/articles/115000385293-Como-criar-um-banco-de-dados-no-cPanel-)
+<br/><br/></br>
 In this project, follow the commands on prompt command: 
 
 <br/>
-
-1- Setting up the base
-
-1.1- Buying hosting + domain for your website
-
-1.2- Checking CPANEL
-
-1.3- Installing SSL
-
-1.4- Creating professional email
-
-1.5- Downloading and installing [WordPress](https://wordpress.org/) in CPanel
-
-1.6- Installing ELEMENTOR plugin
-
-1.7- Extra class 01- Leaving YOUR MAIN SITE without the /
-
-1.8- Extra class 02- Domains on the same hosting
-
-1.9- Extra class 03- How to install PIXEL Facebook(Goal)
-
-- Insert at the top of the page, landing page
-
-1.10- Extra class 04- Content protection plugin
-
-- Plugin: Disable Right Click For WP
+1- Don't forget to download XAMPP and activate the servers: Apache and MySQL so that access to:
 
 <br/>
 
-2- Configuring the members area
-
-<br/>
-2.1- Importing and creating the front page of the showcase
-<br/>
-2.2- Editing the FIRST section of the showcase
-<br/>
-2.3- Editing the SECOND section of the showcase
-<br/>
-2.4- Editing the THIRD section of the showcase PART 01
-<br/>
-2.5- Editing the THIRD section of the showcase PART 02
-<br/>
-2.6- Editing the THIRD section of the showcase PART 03
-<br/>
-2.7- Video lessons section
-<br/>
-2.8- Creating page Privacy policy and term of use
-<br/>
-2.9- Changing and customizing the footer
-<br/>
-2.10- Creating image and optimizing for showcase
-<br/>
-2.11- Mobile version showcase
-<br/>
-2.12- Creating a Thank You Page
-<br/>
-2.13- Creating login and password
+https://localhost
 
 <br/>
 
-3- Selling with Mercado Pago
-
-<br/>
-3.1- Understand the module
-<br/>
-3.2- Knowing Yampi
-<br/>
-3.3- Integrating with Mercado Pago
-<br/>
-3.4- Registering product
-<br/>
-3.5- Registering product
-<br/>
-3.6- How to register Upsell at checkout
-<br/>
-3.7- How to give a discount at checkout
-<br/>
-3.8- Configuring pixel
-<br/>
-3.9- Simulating sales
-<br/>
-3.10- Sending product
+2- It is important that you insert the DB.sql file in your PHPMyAdmin server for the correct reading of your database synchronously with the project files.
 
 <br/>
 
-EXTRA MODULE: WORDPRESS TEMPLATES:
+3- I recommend hiring an email marketing service to configure the "Email.php" file according to the SMTP server or have a more accessible SMTP service, some options are:
 
 <br/>
 
-- Files to download and insert into your WordPress
-<br/>
-
-- https://drive.google.com/drive/folders/1mwhJvrY83ok-i7rqLn3407gZTMpBISKp?usp=share_link
+[SMTP Service - Gmail](https://kinsta.com/en/blog/smtp-servidor-gmail/)
 
 <br/>
 
-Contains 7 files in JSON format to insert in WordPress:
+You can test HostGator's SMTP service (I already used it to test this web application)
+<br/>
+
+[HostGator SMTP](https://www.hostgator.com.br/blog/o-que-e-protocolo-smtp/)
 
 <br/>
 
-1) HOME Page * VitrineAlunos-HomeMembersFlix.json
-  <br/>
-
-https://experiencemedia.io/plataforma
-
+4- If you want to insert your application online, follow these steps:
 <br/>
-
-2) THANK YOU page * thank you page.json
-<br/>
-
-https://experiencemedia.io/plataforma/pagina-de-obrigado
-<br/>
-
-3) BONUS page * ModuloBonus.json
-<br/>
-
-https://experiencemedia.io/plataforma/arquivos-aulas
-<br/>
-
-4) PRIVACY POLICY page * Politica.json
-<br/>
-
-https://experiencemedia.io/plataforma/privacy-policies
-<br/>
-
-5) Page TERMS OF USE * thermodeuso.json
-<br/>
-
-https://experiencemedia.io/plataforma/terms-de-uso
-<br/>
-
-6) LOGIN page - MEMBER AREA * login.json
-<br/>
-
-https://experiencemedia.io/plataforma/acesso
-<br/>
-
-7) VÍDEO-Aulas page - MEMBERS AREA * Modulo-VideoAulas.json
-<br/>
-Module 01: https://experiencemedia.io/plataforma/modulo-01
-<br/>
-Module 02: https://experiencemedia.io/plataforma/modulo-02
-<br/>
-Module 03: https://experiencemedia.io/plataforma/modulo-03
-<br/>
-Module 04: https://experiencemedia.io/plataforma/modulo-04
-<br/>
-Module 05: https://experiencemedia.io/plataforma/modulo-05
-<br/>
-Module 06: https://experiencemedia.io/plataforma/modulo-06
+Hosting (along with the server) must have already been purchased to follow this step:
 
 <br/>
-
-To learn more about the PROFESSIONAL - E-Learning PRO project:
 <br/>
-https://github.com/jonypeixoto/full-stack-web2-projects/tree/main/wordpress-projects/E-Learning-Platform-PRO-WORDPRESS
+
+![](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/serverconfiguration.png)
+
+<br/>
+<br/>
+
+4.1- Go to the HOME of your CPanel, then in MySQL Databases, choose a name for your database and click on "Create Database".
+<br/>
+
+4.2- Then, in CPanel, go to PhpMyAdmin, click in the left corner on your database and click "Import", click "execute" and that's it, your database downloaded here from GitHub.
+<br/>
+
+4.3- Finally, just transfer your files to the server (for example, you can use [Filezilla](https://filezilla-project.org/) or directly in your CPanel)
+<br/>
+The steps below are for [Project15-4-Dynamic-Site-advanced-and-control-panel-advancedPHP-and-news-portal-and-management](https://github.com/jonypeixoto/full-stack-web2-projects/tree/main/full-stack-web-projects/Project15-4-Dynamic-Site-Advanced-and-Control-Panel-AdvancedPHP-and-News-Portal-and-Management)
+<br/>
+<br/>
+However, before uploading the application (in this specific case, go to the "config.php" files). Then fill in the DOMAIN, HOST NAME, USER ACCESS, PASSWORD AND DATABASE NAME.
+<br/>
+<br/>
+![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/serverconfiguration2.png)
+
+<br/>
+Lastly, create a user and give user permission in the MySQL Databases of your CPanel and don't forget to add your user to your previously created database. Also, so that there is no error in "login.php"
+<br/>
+
+Choose SOLUTION 1 or SOLUTION 2 below so that there is no problem logging into the panel:
+
+SOLUTION 1:
+<br/>
+Change the following code in "index.php":
+<br/>
+header('Location: '.INCLUDE_PATH_PANEL);
+die();
+<br/>
+for
+<br/>
+Panel::redirect(INCLUDE_PATH_PANEL);
+<br/>
+<br/>
+<br/>
+![](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/serverconfiguration4.png)
+<br/>
+<br/>
+<br/>
+SOLUTION 2:
+<br/>
+Or also change the following code in "login.php":
+<br/>
+Insert the start and end functions according to the print below:
+
+<br/>
+<br/>
+
+![](https://github.com/jonypeixoto/jonypeixoto/blob/01f25c94fd6b6c505b6ca94cd498e3f7e040dff3/assets/serverconfiguration3.png)
+
+<br/>
 <br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
+
 
 ## :rocket: Technologies
 
