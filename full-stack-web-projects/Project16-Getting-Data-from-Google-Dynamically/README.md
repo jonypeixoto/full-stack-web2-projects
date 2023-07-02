@@ -47,7 +47,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-advancedmvcstructure-platforms.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-project-google.gif)<br/>
 
 <br/>
 
@@ -97,11 +97,13 @@ https://localhost/phpmyadmin
 
 3- Go to your INDEX.PHP project
 
-Test the system using:
+Test the system using the instructions above!
 
 <br/>
 
-Click on SUBMIT and enjoy!
+OBSERVATION:
+
+There are some exercise on file: TEST.PHP
 
 <br/>
 
