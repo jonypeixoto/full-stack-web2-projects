@@ -103,9 +103,29 @@ Test the system using the instructions above!
 
 OBSERVATION:
 
-There are some exercise on file: TEST.PHP
+O que é o Web Scraping?
+
+Existem bibliotecas que facilitam a coleta de informações de aplicações web?
+
+Sim. Veja abaixo:
+
+[PHPQuery](https://packagist.org/packages/electrolinux/phpquery)
+
+É instalado via composer. Caso não tenha instalado, verifique em [COMPOSER INSTALAÇÃO](https://getcomposer.org/)
 
 <br/>
+<br/>
+
+[hQuery](https://github.com/duzun/hQuery.php)
+
+<br/>
+<br/>
+
+[Google News](https://news.google.com)
+
+<br/>
+<br/>
+
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
