@@ -75,43 +75,69 @@ You should know about these technologies:
 ## :information_source: How to Use
 
 ## Here, you will find the step by step to run this project
-In this project, follow the commands on prompt command: 
+In this project, follow the commands: 
 
 <br/>
 
-1- Download and install the local server [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+____
+
+PHPUnit
+
+___
+
+
+What is it?
+
+The. Every part of the process working.
+B. The big advantage of using unit tests is that you can do it independently.
+w. They are independent, if changes are necessary the other parts are not AFFECTED.
 
 <br/>
 
-2- Open your local server at:
-
-https://localhost
-
-and for the database, you can create a table list on PHPMyAdmin using ID, Name, Date, Hour
+Example
 
 <br/>
 
-https://localhost/phpmyadmin
+If you have an EAD system, you will only test specific parts of your application (in this case, I will be using PHP, however, the concept expands to any programming language).
 
 <br/>
 
-3- Go to your INDEX.PHP project
-
-Test the system using the instructions above!
+Where is PHPUnit used?
 
 <br/>
 
-OBSERVATION:
+In large web applications.
 
-O que é o Web Scraping?
+<br/>
 
-Existem bibliotecas que facilitam a coleta de informações de aplicações web?
+How to start PHPUnit in your application?
 
-Sim. Veja abaixo:
+<br/>
 
-[PHPQuery](https://packagist.org/packages/electrolinux/phpquery)
+Go to your folder using the command prompt, in this case I chose PowerShell and enter:
 
-É instalado via composer. Caso não tenha instalado, verifique em [COMPOSER INSTALAÇÃO](https://getcomposer.org/)
+<br/>
+composer require --dev phpunit/phpunit ^7
+
+Right away:
+
+<br/>
+
+./vendor/bin/phpunit --version
+
+<br/>
+
+Follow the documentation instructions on Code and Test Code. Then start at your prompt the command to start the test: ./vendor/bin/phpunit tests
+
+
+<br/>
+<br/>
+
+Learn more about PHPUnit:
+
+<br/>
+
+[PHPUnit](https://phpunit.de/getting-started/phpunit-7.html)
 
 <br/>
 <br/>
