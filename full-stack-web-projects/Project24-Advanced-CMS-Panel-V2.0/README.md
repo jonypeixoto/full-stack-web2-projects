@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/AdvancedCMSPanel2.gif" />
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/advancedsystemcmsv2.gif" />
     <br>
     Advanced CMS Panel Version 2.0
 </h1>
@@ -47,7 +47,7 @@ Advanced CMS Panel Version 2.0 is a repository of the project involving web 2.0 
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-AdvancedCMSPanel2.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-advancedsystemcmsv2.gif)<br/>
 
 <br/>
 
