@@ -79,75 +79,17 @@ In this project, follow the commands:
 
 <br/>
 
-____
-
-PHPUnit
-
-___
-
-
-What is it?
-
-The. Every part of the process working.
-B. The big advantage of using unit tests is that you can do it independently.
-w. They are independent, if changes are necessary the other parts are not AFFECTED.
+1- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
 
 <br/>
 
-Example
+2- Open your local server at:
+
+https://localhost
 
 <br/>
 
-If you have an EAD system, you will only test specific parts of your application (in this case, I will be using PHP, however, the concept expands to any programming language).
-
-<br/>
-
-Where is PHPUnit used?
-
-<br/>
-
-In large web applications.
-
-<br/>
-
-How to start PHPUnit in your application?
-
-<br/>
-
-Go to your folder using the command prompt, in this case I chose PowerShell and enter:
-
-<br/>
-composer require --dev phpunit/phpunit ^7
-
-Right away:
-
-<br/>
-
-./vendor/bin/phpunit --version
-
-<br/>
-
-Follow the documentation instructions on Code and Test Code. Then start at your prompt the command to start the test: ./vendor/bin/phpunit tests
-
-
-<br/>
-<br/>
-
-Learn more about PHPUnit:
-
-<br/>
-
-[PHPUnit](https://phpunit.de/getting-started/phpunit-7.html)
-
-<br/>
-<br/>
-
-[hQuery](https://github.com/duzun/hQuery.php)
-
-<br/>
-<br/>
-
-[Google News](https://news.google.com)
+3- Go to your INDEX.PHP project and enjoy!
 
 <br/>
 <br/>
