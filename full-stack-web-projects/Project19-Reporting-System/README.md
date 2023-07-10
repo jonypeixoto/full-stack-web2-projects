@@ -69,6 +69,7 @@ You should know about these technologies:
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [ChartJS](https://www.chartjs.org/)
 
 <br/>
 
