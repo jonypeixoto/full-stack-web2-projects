@@ -81,17 +81,46 @@ In this project, follow the commands:
 
 <br/>
 
-1- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
+1) Navigate to the directory of your project folder (if you don't have one), install the MongoDB dependency:
 
 <br/>
 
-2- Open your local server at:
+composer require mongodb/mongodb
+
+2) Don't forget to install [MongoDB](https://pecl.php.net/package/mongodb/1.13.0/windows) on your local Xampp server:
+<br/>
+
+and when going down the page choose between versions 8.1, 8.0 or 7.4 of PHP and then the Thread Safe (TS) x64 for 64 bits (or x86, if it is a 32 bits operating system) if yours is 64 bits.
+
+<br/>
+
+After downloading extract the php_mongodb.dll file to the xampp/php/ext folder and then open the php.ini file and paste the extension like this in the php.ini:
+
+<br/>
+
+extension=php_mongodb.dll
+
+<br/>
+
+Save the php.ini file and restart your server.
+
+<br/>
+
+3) Create the cluster on your [MongoDB Cloud server](https://cloud.mongodb.com) and access locally
+
+<br/>
+
+3.1- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
+
+<br/>
+
+3.2- Open your local server at:
 
 https://localhost
 
 <br/>
 
-3- Go to your INDEX.PHP project and enjoy!
+3.3- Go to your INDEX.PHP project and enjoy!
 
 <br/>
 <br/>
