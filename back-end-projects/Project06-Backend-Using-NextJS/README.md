@@ -74,6 +74,64 @@ OBSERVATION: Do not forget to download [XAMPP](https://www.apachefriends.org/pt_
 
 <br/>
 
+What is NextJS?
+
+<br/>
+
+It's a way to work with ReactJS on the backend of an application.
+
+<br/>
+
+To start the project in Node: npm init
+
+<br/>
+
+To install NextJS: npm install next react react-dom
+
+<br/>
+
+After inserting the scripts or copying them to your desktop, open the prompt, point to the project folder and enter the command to start the NextJS server: npm run dev
+
+<br/>
+
+If everything goes right, you should access: http://localhost:3000
+
+<br/>
+
+A message will appear: Welcome to NextJS!
+
+<br/>
+<br/>
+
+How to create pages on NextJS server?
+
+<br/>
+
+See the GIF print and the project available here on GitHub.
+
+<br/>
+
+How to export a project from NextJS?
+
+<br/>
+
+Go to the package.json file and change the build to: "build": "next build && next export",
+
+<br/>
+
+Then go to the prompt and run: npm run build
+
+<br/>
+
+Soon after, an OUT folder will be created in your project folder.
+
+<br/>
+<br/>
+
+For more information in the [official NextJS documentation](https://nextjs.org/docs)
+
+<br/>
+
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## :rocket: Technologies
