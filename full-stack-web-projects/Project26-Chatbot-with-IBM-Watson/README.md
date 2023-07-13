@@ -69,8 +69,7 @@ You should know about these technologies:
 - [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
-- [MongoDB Installation using Composer](https://packagist.org/packages/mongodb/mongodb)
-- [MongoDB](https://mongodb.com)
+- [IBM Watson](https://cloud.ibm.com/developer/watson/)
 
 <br/>
 
