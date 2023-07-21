@@ -50,6 +50,12 @@ SMS System is a repository of the project involving web 2.0 and front-end that e
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-smssystem.gif)<br/>
 
 <br/>
+<br/>
+
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/smssystem2.jpg)<br/>
+
+
+<br/>
 
 ## :warning: Prerequisites
 
