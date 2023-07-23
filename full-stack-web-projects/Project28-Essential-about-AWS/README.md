@@ -1,0 +1,209 @@
+<h1 align="center">
+    <img alt="Full-Stack GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/essentialaboutaws.gif" />
+    <br>
+    Essential about AWS
+</h1>
+
+<h4 align="center">
+Essential about AWS is a repository of the project involving web 2.0 and front-end that every programmer in the world should know:
+   <a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html/">Web 2.0</a>
+</h4>
+
+<br/>
+
+What does AWS mean?
+<br/>
+Amazon Web Service, are Amazon web services that you only pay for what you consume on web services.
+
+<br/>
+
+My first test on AWS was the service: [Amazon Simple Email Service](https://docs.aws.amazon.com/pt_br/ses/latest/dg/setting-up.html#:~:text=Configura%C3%A7%C3%A3o%20do%20Amazon%20Simple%20Email%20Service%201%20Cadastro,...%203%20Download%20um%20SDK%20da%20AWS%20)
+
+<br/>
+
+Install the AWS library on PHP via the execute prompt:
+
+<br/>
+
+composer require aws/aws-sdk-php
+
+<br/>
+<br/>
+
+All the above specifications can also be used with the knowledge of PHPMailer integrated with the AWS service from your Amazon dashboard settings in Amazon SES >> SMTP settings.
+
+<br/>
+
+For more specific information in the [official Amazon documentation](https://docs.aws.amazon.com/pt_br/ses/latest/DeveloperGuide/send-using-sdk-php.html) for this project.
+
+<br/>
+
+For more general information from [AWS Documentation](https://docs.aws.amazon.com/index.html).
+
+<br/>
+
+<br/>
+
+<p>These dynamic seals (shields) concern the Full-Stack Web 2.0 repository, all projects work on any operating system that meets the technologies:</p>
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/full-stack-web-projects">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/full-stack-web-projects">
+  
+  <a href="https://www.codacy.com/gh/jonypeixoto/full-stack-web2-projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jonypeixoto/full-stack-web2-projects&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/799ca46e878b4a40a8c52ac735f5a1fa">
+  </a>
+  
+  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/full-stack-web-projects">
+  <a href="https://github.com/jonypeixoto/full-stack-web2-projects/commits">
+   
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/full-stack-web-projects">
+  </a>
+  
+  <a href="https://github.com/jonypeixoto/full-stack-web2-projects/issues">
+    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/full-stack-web-projects">
+  </a>
+  
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/full-stack-web2-projects"> 
+</p>
+
+
+<p align="center">
+  <a href="#information_source-repositories">Preview</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#star2-author">Author</a>
+</p>
+
+##  :information_source: Preview
+
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-essentialaboutgraphql.gif)<br/>
+
+<br/>
+<br/>
+
+You must be use [PostMan] for this request on Headers: Key: Content-Type and Value: application/x-www-form-urlencoded 
+
+<br/>
+
+On Body: {"query": "query { echo(message: \"CybertimeUP\") }" }
+
+<br/>
+<br/>
+
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-essentialaboutgraphql2.gif)<br/>
+
+<br/>
+<br/>
+
+You must be use [PostMan] for this request on Headers: Key: Content-Type and Value: application/x-www-form-urlencoded 
+
+<br/>
+
+On Body: {"query": "mutation { sum(x:10,y:50) }" }
+
+<br/>
+
+Also recent to your INDEX.PHP:
+<br/>
+'mutation'=> $mutationType
+
+<br/>
+
+Finally click on SEND and the message will appear in [PostMan](https://www.postman.com)
+
+<br/>
+<br/>
+
+## :warning: Prerequisites
+
+Follow the instructions in each folder in each README and if necessary check the official website for each documentation:
+
+You should know about these technologies:
+
+<br/>
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/cssref/)
+- [CSS3](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [PHP](https://www.php.net/docs.php)
+- [MySQL](https://www.mysql.com/)
+- [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [AWS](https://docs.aws.com)
+
+<br/>
+
+## :information_source: How to Use
+
+## Here, you will find the step by step to run this project
+In this project, follow the commands: 
+
+<br/>
+
+1- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
+
+<br/>
+
+2- Open your local server at:
+
+https://localhost
+
+<br/>
+
+3- Go to your INDEX.PHP project and enjoy!
+
+<br/>
+<br/>
+
+
+![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
+
+## :rocket: Technologies
+
+You need to understand the mechanisms that trigger each tool below:
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/cssref/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [PHP](https://www.php.net/docs.php)
+- [PHPMyAdmin]()
+- [MySQL](https://www.mysql.com/)
+- [Windows Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
+- [Responsive Design](https://developers.google.com/search/mobile-sites/mobile-seo/responsive-design)
+- [UX/UI](https://www.adobe.com/br/creativecloud/ui-ux.html)
+- [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [AWS](https://docs.aws.com)
+
+
+<br/><br/>
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/full-stack-web2-projects/blob/main/LICENSE) for more information.
+
+<br/><br/>
+
+## :star2: Author
+
+<img alt="Jony Peixoto" title="Jony Peixoto" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/Jony-Peixoto-Projects.jpg" height="100" width="100" />
+
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
+
+<br/>
+
+<a href="https://www.jonypeixoto.com" target="_blank">
+  <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+</a>
+
+<br/>
+
+### LIVES:
+
+YouTube: [Jony Peixoto](https://www.youtube.com/@JonyPeixotoOriginal)
