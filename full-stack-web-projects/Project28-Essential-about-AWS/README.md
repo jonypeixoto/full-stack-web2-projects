@@ -80,7 +80,7 @@ For more general information from [AWS Documentation](https://docs.aws.amazon.co
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-essentialaboutgraphql.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-essentialaboutaws.gif)<br/>
 
 <br/>
 <br/>
