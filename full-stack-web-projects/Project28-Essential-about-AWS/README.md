@@ -82,40 +82,7 @@ For more general information from [AWS Documentation](https://docs.aws.amazon.co
 
 ![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-essentialaboutaws.gif)<br/>
 
-<br/>
-<br/>
 
-You must be use [PostMan] for this request on Headers: Key: Content-Type and Value: application/x-www-form-urlencoded 
-
-<br/>
-
-On Body: {"query": "query { echo(message: \"CybertimeUP\") }" }
-
-<br/>
-<br/>
-
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-essentialaboutgraphql2.gif)<br/>
-
-<br/>
-<br/>
-
-You must be use [PostMan] for this request on Headers: Key: Content-Type and Value: application/x-www-form-urlencoded 
-
-<br/>
-
-On Body: {"query": "mutation { sum(x:10,y:50) }" }
-
-<br/>
-
-Also recent to your INDEX.PHP:
-<br/>
-'mutation'=> $mutationType
-
-<br/>
-
-Finally click on SEND and the message will appear in [PostMan](https://www.postman.com)
-
-<br/>
 <br/>
 
 ## :warning: Prerequisites
