@@ -80,17 +80,45 @@ In this project, follow the commands:
 
 <br/>
 
-1- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
+1- First of all:
 
 <br/>
 
-2- Open your local server at:
+Find your project directory and enter the command below to install the stripe dependencies:
+
+<br/>
+
+composer require stripe/stripe-php
+
+<br/>
+
+Change your API Keys from developer mode on the Stripe dashboard:
+
+<br/>
+
+https://dashboard.stripe.com/test/apikeys
+
+<br/>
+
+Finally, don't forget to use the [testing cards available in the official Stripe documentation](https://stripe.com/docs/testing#cards)
+
+<br/>
+
+For more information about [checkout the official STRIPE documentation](https://stripe.com/docs/checkout/php)
+
+<br/>
+
+2- Download and install the local server [XAMP](https://www.apachefriends.org/pt_br/index.html)
+
+<br/>
+
+3- Open your local server at:
 
 https://localhost
 
 <br/>
 
-3- Go to your INDEX.PHP project and enjoy!
+4- Go to your INDEX.PHP project and enjoy!
 
 <br/>
 <br/>
