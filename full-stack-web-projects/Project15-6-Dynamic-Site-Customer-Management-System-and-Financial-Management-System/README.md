@@ -47,7 +47,7 @@ Custom Management System and Financial Managemente System is a repository of the
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-custommanagementsystem.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-financialsystem.gif)<br/>
 
 ## :warning: Prerequisites
 
