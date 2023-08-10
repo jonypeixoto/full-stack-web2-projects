@@ -47,7 +47,7 @@
 
 ##  :information_source: Preview
 
-![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-online-chat.gif)<br/>
+![App Screenshot](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-websitewithlogin-and-commentssystem.gif)<br/>
 
 ## :warning: Prerequisites
 
