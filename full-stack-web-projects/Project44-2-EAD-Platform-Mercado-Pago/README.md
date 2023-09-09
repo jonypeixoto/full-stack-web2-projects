@@ -145,6 +145,8 @@ However, before uploading the application (in this specific case, go to the "con
 
 <br/>
 
+[Documentation of the testing gateway panel in Mercado Pago](https://applications.mercadopago.com.br/)
+
 <br/>
 
 <br/>
