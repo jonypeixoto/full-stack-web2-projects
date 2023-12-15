@@ -352,11 +352,11 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
 ### LIVES:
 
-TikTok: [Jony Peixoto @jonypeixoto](https://jonypeixoto.com/tiktok)
+TikTok: [Jony Peixoto @jonypeixoto](https://tiktok.com/@jonypeixoto)
 
-YouTube: [Jony Peixoto](https://jonypeixoto.com/youtube)
+YouTube: [Jony Peixoto](https://youtube.com/@jonypeixoto.)
 
-Twitch: [Jony Peixoto](https://jonypeixoto.com/twitch)
+Twitch: [Jony Peixoto](https://twitch.tv/jonypeixoto)
 
 
 
