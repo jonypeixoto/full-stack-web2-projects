@@ -352,7 +352,7 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
 ### LIVES:
 
-TikTok: [Jony Tech @jonypeixoto](https://jonypeixoto.com/tiktok)
+TikTok: [Jony Peixoto @jonypeixoto](https://jonypeixoto.com/tiktok)
 
 YouTube: [Jony Peixoto](https://jonypeixoto.com/youtube)
 
